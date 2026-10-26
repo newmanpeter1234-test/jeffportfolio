@@ -1,0 +1,13 @@
+.contact-honeypot{display:none!important}
+.form-privacy a{color:var(--lime);text-decoration:underline;text-underline-offset:3px}
+.contact-form-panel input:disabled,.contact-form-panel textarea:disabled{opacity:.65}
+.form-submit:disabled{opacity:.8}
+.contact-sending-note{font-size:11px;color:var(--ink-soft);margin-top:14px;line-height:1.7}
+.contact-send-status{padding:15px 17px;margin-top:16px;border:1px solid #517338;border-radius:3px;color:#c5e8ab;background:#182b10;font-size:12px;line-height:1.8;overflow-wrap:anywhere}
+.contact-send-status p{margin:0}
+.contact-send-status.error{color:#f4ddcc;border-color:#9a6845;background:#2a1d13}
+.contact-send-status a{display:inline-flex;align-items:center;gap:7px;color:var(--lime);text-decoration:underline;text-underline-offset:3px;margin-top:8px}
+.contact-send-spinner{animation:contact-send-spin .85s linear infinite}
+@keyframes contact-send-spin{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.contact-send-spinner{animation:none}}
+@media(max-width:760px){.contact-send-status{font-size:11px;padding:13px 14px}.contact-sending-note{font-size:10px}}

@@ -1,0 +1,140 @@
+{
+  "title": "Cybersecurity, in perspective.",
+  "owner": "Jefrine Correya",
+  "master": {
+    "duration": 41,
+    "video": "/media/cybersecurity-showreel.mp4",
+    "poster": "/images/cybersecurity-showreel-poster.webp"
+  },
+  "projects": [
+    {
+      "id": "astra",
+      "title": "ASTRA Monitor",
+      "slug": "astra-monitor",
+      "category": "SOC SIMULATION",
+      "start": 3.25,
+      "end": 7.25,
+      "source": "https://github.com/jeff-1217/ASTRA-Monitor",
+      "feature": "From alert to context.",
+      "evidence": "ORIGINAL UI / DEMO FIXTURES / NOT LIVE",
+      "note": [
+        "Existing sample alert",
+        "MITRE ATT&CK context",
+        "Implemented panel dismissal"
+      ]
+    },
+    {
+      "id": "soc",
+      "title": "SOC Threat Detection Assistant",
+      "slug": "soc-threat-detection-assistant",
+      "category": "AI-ASSISTED INVESTIGATION",
+      "start": 7.25,
+      "end": 11.25,
+      "source": "https://github.com/jeff-1217/SOC-Threat-Detection-Assistant",
+      "feature": "Structure the investigation.",
+      "evidence": "REAL STREAMLIT UI / EXTERNAL APIS NOT CALLED",
+      "note": [
+        "Log parsing",
+        "API-backed enrichment",
+        "Recommendations need review"
+      ]
+    },
+    {
+      "id": "splunk",
+      "title": "Splunk SOC Lab",
+      "slug": "splunk-soc-lab",
+      "category": "LOG ANALYSIS",
+      "start": 11.25,
+      "end": 15.25,
+      "source": "https://github.com/jeff-1217/splunk-soc-lab",
+      "feature": "Make the logs tell a story.",
+      "evidence": "ORIGINAL REPORT CAPTURE / PUBLISHED SPL SOURCE",
+      "note": [
+        "Universal Forwarder",
+        "Failed-login searches",
+        "Controlled lab evidence"
+      ]
+    },
+    {
+      "id": "url",
+      "title": "URL Phishing Detector",
+      "slug": "url-phishing-detector",
+      "category": "LINK ANALYSIS",
+      "start": 15.25,
+      "end": 19.25,
+      "source": "https://github.com/jeff-1217/URL-Phishing-Detector2",
+      "feature": "Inspect before you trust.",
+      "evidence": "ORIGINAL INPUT FORM / NO URL LOOKUP PERFORMED",
+      "note": [
+        "Flask input interface",
+        "Lexical analysis module",
+        "Safe Browsing requires API access"
+      ]
+    },
+    {
+      "id": "wazuh",
+      "title": "Wazuh SIEM Lab",
+      "slug": "wazuh-siem-lab",
+      "category": "ENDPOINT INVESTIGATION",
+      "start": 19.25,
+      "end": 23.25,
+      "source": "https://github.com/jeff-1217/wazuh-siem-lab",
+      "feature": "Follow the endpoint evidence.",
+      "evidence": "ORIGINAL REPORT CAPTURE / HISTORICAL LAB EVENTS",
+      "note": [
+        "Threat-hunting interface",
+        "Windows logon events",
+        "Published laboratory report"
+      ]
+    },
+    {
+      "id": "scanner",
+      "title": "Web Vulnerability Scanner",
+      "slug": "web-vulnerability-scanner",
+      "category": "AUTHORISED ASSESSMENT",
+      "start": 23.25,
+      "end": 27.25,
+      "source": "https://github.com/jeff-1217/web-vuln-scanner",
+      "feature": "Define the scope first.",
+      "evidence": "ORIGINAL CONFIGURATION / NO SCANS INITIATED",
+      "note": [
+        "Original configuration form",
+        "Python / Flask / Nmap",
+        "Authorised targets only"
+      ]
+    },
+    {
+      "id": "passchecker",
+      "title": "PassChecker",
+      "slug": "passchecker",
+      "category": "PASSWORD HYGIENE",
+      "start": 27.25,
+      "end": 31.25,
+      "source": "https://github.com/jeff-1217/password_strength_checker",
+      "feature": "Better habits. Local feedback.",
+      "evidence": "WORKING LOCAL HEURISTIC / SYNTHETIC INPUT ONLY",
+      "note": [
+        "Original client-side JavaScript",
+        "Masked demonstration input",
+        "Complexity is not a security guarantee"
+      ]
+    },
+    {
+      "id": "wireshark",
+      "title": "Wireshark Network Traffic Analysis",
+      "slug": "wireshark-traffic-analysis",
+      "category": "PACKET ANALYSIS",
+      "start": 31.25,
+      "end": 35.25,
+      "source": "https://github.com/jeff-1217/wireshark-network-traffic-analysis",
+      "feature": "Go beneath the surface.",
+      "evidence": "PUBLISHED PACKET CAPTURE / ADDRESS FIELDS REDACTED",
+      "note": [
+        "Original Wireshark packet list",
+        "Protocol-level inspection",
+        "Historical capture, not live traffic"
+      ]
+    }
+  ],
+  "disclosure": "Actual project interfaces and published lab evidence. Demo fixtures\u2014not live telemetry or verified detection results."
+}

@@ -1,0 +1,184 @@
+[
+  {
+    "name": "-soc-agent-streamlit",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/-soc-agent-streamlit",
+    "language": "Python",
+    "homepage": null
+  },
+  {
+    "name": "ASTRA-Monitor",
+    "description": "AI-based Security Threat Recognition and Analysis Monitor",
+    "html_url": "https://github.com/jeff-1217/ASTRA-Monitor",
+    "language": "JavaScript",
+    "homepage": null
+  },
+  {
+    "name": "browser-extension-security-check",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/browser-extension-security-check",
+    "language": null,
+    "homepage": null
+  },
+  {
+    "name": "cybersecurity-portscan-project",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/cybersecurity-portscan-project",
+    "language": "HTML",
+    "homepage": null
+  },
+  {
+    "name": "IOC-Automation-Pipeline",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/IOC-Automation-Pipeline",
+    "language": null,
+    "homepage": null
+  },
+  {
+    "name": "jeff",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/jeff",
+    "language": "HTML",
+    "homepage": null
+  },
+  {
+    "name": "jeff-1217",
+    "description": "Config files for my GitHub profile.",
+    "html_url": "https://github.com/jeff-1217/jeff-1217",
+    "language": "HTML",
+    "homepage": "https://github.com/jeff-1217"
+  },
+  {
+    "name": "jeffcyberquest",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/jeffcyberquest",
+    "language": "TypeScript",
+    "homepage": "https://jeffcyberquest.vercel.app"
+  },
+  {
+    "name": "jeffportfolio",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/jeffportfolio",
+    "language": "HTML",
+    "homepage": "https://jeffportfolio-five.vercel.app"
+  },
+  {
+    "name": "nessus-vulnerability-scan",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/nessus-vulnerability-scan",
+    "language": null,
+    "homepage": null
+  },
+  {
+    "name": "Netflix-clone",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/Netflix-clone",
+    "language": "HTML",
+    "homepage": null
+  },
+  {
+    "name": "password-security-analysis",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/password-security-analysis",
+    "language": null,
+    "homepage": null
+  },
+  {
+    "name": "password_strength_checker",
+    "description": "password_strength_checker",
+    "html_url": "https://github.com/jeff-1217/password_strength_checker",
+    "language": "HTML",
+    "homepage": "https://password-strength-checker-alpha.vercel.app"
+  },
+  {
+    "name": "phishing-email-analysis",
+    "description": "Phishing Email Analysis - Contains a PDF report and supporting evidence images. Documentation in README.",
+    "html_url": "https://github.com/jeff-1217/phishing-email-analysis",
+    "language": null,
+    "homepage": null
+  },
+  {
+    "name": "Portfolio",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/Portfolio",
+    "language": "HTML",
+    "homepage": "https://portfolio-ten-ruddy-92.vercel.app"
+  },
+  {
+    "name": "SOC-Threat-Detection-Assistant",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/SOC-Threat-Detection-Assistant",
+    "language": "Python",
+    "homepage": null
+  },
+  {
+    "name": "splunk-soc-lab",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/splunk-soc-lab",
+    "language": null,
+    "homepage": null
+  },
+  {
+    "name": "student-leave-management-system",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/student-leave-management-system",
+    "language": "TypeScript",
+    "homepage": "https://student-leave-management-system-eta.vercel.app"
+  },
+  {
+    "name": "ufw-firewall-configuration",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/ufw-firewall-configuration",
+    "language": null,
+    "homepage": null
+  },
+  {
+    "name": "url-phishing-detector",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/url-phishing-detector",
+    "language": "Python",
+    "homepage": null
+  },
+  {
+    "name": "URL-Phishing-Detector2",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/URL-Phishing-Detector2",
+    "language": "Python",
+    "homepage": null
+  },
+  {
+    "name": "VPN-Privacy",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/VPN-Privacy",
+    "language": null,
+    "homepage": null
+  },
+  {
+    "name": "watchdemo",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/watchdemo",
+    "language": "JavaScript",
+    "homepage": null
+  },
+  {
+    "name": "wazuh-siem-lab",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/wazuh-siem-lab",
+    "language": null,
+    "homepage": null
+  },
+  {
+    "name": "web-vuln-scanner",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/web-vuln-scanner",
+    "language": "Python",
+    "homepage": null
+  },
+  {
+    "name": "wireshark-network-traffic-analysis",
+    "description": null,
+    "html_url": "https://github.com/jeff-1217/wireshark-network-traffic-analysis",
+    "language": null,
+    "homepage": null
+  }
+]

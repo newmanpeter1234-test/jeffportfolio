@@ -1,0 +1,13 @@
+{
+  "source": "public/media/cybersecurity-showreel.mp4",
+  "sourceSha256": "d748a3145926c4e4f2586c0a6704fa6e8c450238be06ee15bd023c1545a45132",
+  "sourceRange": [
+    4.266666666666667,
+    33.833333333333336
+  ],
+  "duration": 18,
+  "loopOverlap": 0.6,
+  "outputWidth": 1920,
+  "outputHeight": 1080,
+  "outputFps": 60
+}

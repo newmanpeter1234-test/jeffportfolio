@@ -1,0 +1,41 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.250
+Jefrine Correya. Security, with intent.
+The camera moves into a spatial gallery of real projects.
+
+00:00:03.250 --> 00:00:07.250
+ASTRA Monitor. From alert to context.
+ORIGINAL UI / DEMO FIXTURES / NOT LIVE.
+
+00:00:07.250 --> 00:00:11.250
+SOC Threat Detection Assistant. Structure the investigation.
+REAL STREAMLIT UI / EXTERNAL APIS NOT CALLED.
+
+00:00:11.250 --> 00:00:15.250
+Splunk SOC Lab. Make the logs tell a story.
+ORIGINAL REPORT CAPTURE / PUBLISHED SPL SOURCE.
+
+00:00:15.250 --> 00:00:19.250
+URL Phishing Detector. Inspect before you trust.
+ORIGINAL INPUT FORM / NO URL LOOKUP PERFORMED.
+
+00:00:19.250 --> 00:00:23.250
+Wazuh SIEM Lab. Follow the endpoint evidence.
+ORIGINAL REPORT CAPTURE / HISTORICAL LAB EVENTS.
+
+00:00:23.250 --> 00:00:27.250
+Web Vulnerability Scanner. Define the scope first.
+ORIGINAL CONFIGURATION / NO SCANS INITIATED.
+
+00:00:27.250 --> 00:00:31.250
+PassChecker. Better habits. Local feedback.
+WORKING LOCAL HEURISTIC / SYNTHETIC INPUT ONLY.
+
+00:00:31.250 --> 00:00:35.250
+Wireshark Network Traffic Analysis. Go beneath the surface.
+PUBLISHED PACKET CAPTURE / ADDRESS FIELDS REDACTED.
+
+00:00:35.250 --> 00:00:41.000
+The camera pulls back to show all eight projects.
+Jefrine Correya. Beyond the noise. Security, with intent.

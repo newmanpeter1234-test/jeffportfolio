@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.jeffsec.in/</loc></url>
+  <url><loc>https://www.jeffsec.in/projects</loc></url>
+  <url><loc>https://www.jeffsec.in/journey</loc></url>
+  <url><loc>https://www.jeffsec.in/credentials</loc></url>
+  <url><loc>https://www.jeffsec.in/contact</loc></url>
+  <url><loc>https://www.jeffsec.in/sources</loc></url>
+  <url><loc>https://www.jeffsec.in/showreel</loc></url>
+  <url><loc>https://www.jeffsec.in/projects/astra-monitor</loc></url>
+  <url><loc>https://www.jeffsec.in/projects/soc-threat-detection-assistant</loc></url>
+  <url><loc>https://www.jeffsec.in/projects/splunk-soc-lab</loc></url>
+  <url><loc>https://www.jeffsec.in/projects/url-phishing-detector</loc></url>
+  <url><loc>https://www.jeffsec.in/projects/wazuh-siem-lab</loc></url>
+  <url><loc>https://www.jeffsec.in/projects/web-vulnerability-scanner</loc></url>
+  <url><loc>https://www.jeffsec.in/projects/passchecker</loc></url>
+  <url><loc>https://www.jeffsec.in/projects/slms</loc></url>
+  <url><loc>https://www.jeffsec.in/projects/netflix-clone</loc></url>
+  <url><loc>https://www.jeffsec.in/projects/ml-threat-monitor</loc></url>
+  <url><loc>https://www.jeffsec.in/projects/ioc-automation-pipeline</loc></url>
+  <url><loc>https://www.jeffsec.in/projects/wireshark-traffic-analysis</loc></url>
+  <url><loc>https://www.jeffsec.in/projects/phishing-email-analysis</loc></url>
+  <url><loc>https://www.jeffsec.in/projects/nessus-vulnerability-scan</loc></url>
+  <url><loc>https://www.jeffsec.in/projects/network-portscan</loc></url>
+  <url><loc>https://www.jeffsec.in/projects/ufw-firewall</loc></url>
+  <url><loc>https://www.jeffsec.in/projects/password-security-analysis</loc></url>
+  <url><loc>https://www.jeffsec.in/projects/browser-extension-security</loc></url>
+  <url><loc>https://www.jeffsec.in/projects/vpn-privacy</loc></url>
+</urlset>

@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-22",
+  "title": "Cybersecurity, in perspective",
+  "author": "Jefrine Correya",
+  "generation": "Offline Three.js PerspectiveCamera / explicit world-space geometry / depth-separated original UI layers / deterministic quintic and orbital paths",
+  "master": {
+    "file": "cybersecurity-showreel.mp4",
+    "duration": 41.0,
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "decodedFrames": 1230,
+    "blankFrames": 0,
+    "audioStreams": 0,
+    "codec": "h264",
+    "profile": "Main",
+    "pixelFormat": "yuv420p",
+    "faststart": true,
+    "bytes": 3633975,
+    "sha256": "d748a3145926c4e4f2586c0a6704fa6e8c450238be06ee15bd023c1545a45132",
+    "loopSeamMeanAbsolutePixelDifference": null
+  },
+  "hero": {
+    "file": "cybersecurity-hero-loop.mp4",
+    "duration": 10.8,
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "decodedFrames": 324,
+    "blankFrames": 0,
+    "audioStreams": 0,
+    "codec": "h264",
+    "profile": "Main",
+    "pixelFormat": "yuv420p",
+    "faststart": true,
+    "bytes": 939012,
+    "sha256": "ebc572cebfecccc5c28446ee1124952f501cb6d0919068152551e1bf2d05f7f7",
+    "loopSeamMeanAbsolutePixelDifference": 0.45331018518518523
+  },
+  "sourcePins": {
+    "ASTRA-Monitor": {
+      "commit": "ffa45993badc72b9683beb6e2c8a79fe00a3248d",
+      "paths": [
+        "README.md",
+        "app.py",
+        "templates/index.html",
+        "static/main.js"
+      ]
+    },
+    "SOC-Threat-Detection-Assistant": {
+      "commit": "38791d1a081b8ebd18f1ef8676308a9c8c0d4ad3",
+      "paths": [
+        "README.md",
+        "soc_agent.py",
+        "images/Screenshot-2025-10-17-at-12.02.08-PM.jpg"
+      ]
+    },
+    "-soc-agent-streamlit": {
+      "commit": "af4541c7fb43f8dd1daf6b3abcb6b283ee10b52d",
+      "paths": [
+        "soc-agent-streamlit/app.py"
+      ]
+    },
+    "splunk-soc-lab": {
+      "commit": "e74f035248f0083a121df1c0625d4ab6c02adc42",
+      "paths": [
+        "README.md",
+        "queries/splunk-searches.md",
+        "screenshots/splunk-dashboard.png",
+        "screenshots/failed-logins.png",
+        "screenshots/monitoring-overview.png",
+        "reports/Jefrin_Final_SOC_Report.pdf"
+      ]
+    },
+    "wazuh-siem-lab": {
+      "commit": "c8a4282c86d5bf593e3e7183a4eea6d46ce6b346",
+      "paths": [
+        "README.md",
+        "screenshots/wazuh-dashboard.png",
+        "screenshots/threat-hunting.png",
+        "screenshots/agent-summary.png",
+        "report/PROJECT_ON_WAZUH.pdf"
+      ]
+    },
+    "wireshark-network-traffic-analysis": {
+      "commit": "ce92f1e3e434dc2cbd9117d70e54493cfd421a88",
+      "paths": [
+        "README.md",
+        "images/PHOTO-2025-10-27-21-11-29.jpg",
+        "Wireshark_Network_Traffic_Analysis_Report.pdf"
+      ]
+    },
+    "URL-Phishing-Detector2": {
+      "commit": "6469831935addff67b3a31b06166b5499c17709b",
+      "paths": [
+        "app.py",
+        "lexical.py",
+        "templates/index.html",
+        "static/bg.jpg"
+      ]
+    },
+    "web-vuln-scanner": {
+      "commit": "02323ba0c8117f7a5edbf9910b6e322604c7fe08",
+      "paths": [
+        "app.py",
+        "scanner.py",
+        "templates/index.html"
+      ]
+    },
+    "password_strength_checker": {
+      "commit": "71640e3a856666b133e79838213d41c6e10f09a8",
+      "paths": [
+        "index.html"
+      ]
+    }
+  },
+  "interfaceEvidence": {
+    "astra": {
+      "file": "astra.webp",
+      "width": 1152,
+      "height": 720,
+      "sha256": "91343fa5b4d55f103d615d080f346706eb0c7236df70d7070fffd7db1d766510",
+      "source": "public/media/astra-hero.mp4 @ 0.9s",
+      "crop": null,
+      "redactions": null,
+      "note": "Existing verified source capture. Original sample fixtures, no new telemetry."
+    },
+    "astra-detail": {
+      "file": "astra-detail.webp",
+      "width": 720,
+      "height": 508,
+      "sha256": "261fd662d62a1322f82e076a0c6b6e5f28d6e4b4dc229a41bb6a2a0940738e47",
+      "source": "public/images/astra-hero-poster.webp",
+      "crop": [
+        216,
+        106,
+        936,
+        614
+      ],
+      "redactions": null,
+      "note": "Actual implemented modal, cropped from verified original capture. Reconstructed as a depth-separated interface layer."
+    },
+    "splunk": {
+      "file": "splunk.webp",
+      "width": 966,
+      "height": 426,
+      "sha256": "9b6e816ea9f540a262afea6d54004cd40a80d5fb9b2eb3afe9675b837258640a",
+      "source": "splunk-soc-lab/reports/Jefrin_Final_SOC_Report.pdf, page 11, embedded image",
+      "crop": [
+        114,
+        180,
+        1080,
+        606
+      ],
+      "redactions": null,
+      "note": "Actual published Splunk alert-list screen, not a dashboard mockup. Browser address and OS taskbar omitted."
+    },
+    "wazuh": {
+      "file": "wazuh.webp",
+      "width": 1377,
+      "height": 634,
+      "sha256": "9f6a8f193f9c81a6224c453893c432ad9941d027e98da7dad3f6350587ac37b1",
+      "source": "wazuh-siem-lab/report/PROJECT_ON_WAZUH.pdf, page 19, first embedded image",
+      "crop": null,
+      "redactions": null,
+      "note": "Actual published threat-hunting interface, historical lab evidence."
+    },
+    "wazuh-detail": {
+      "file": "wazuh-detail.webp",
+      "width": 1380,
+      "height": 643,
+      "sha256": "36341945cdc807f7de790a4182f1a8fe782145db3dd08efb4fe3d3f609d283d7",
+      "source": "wazuh-siem-lab/report/PROJECT_ON_WAZUH.pdf, page 19, second embedded image",
+      "crop": null,
+      "redactions": null,
+      "note": "Actual published event-table detail. Not live monitoring."
+    },
+    "wireshark": {
+      "file": "wireshark.webp",
+      "width": 1440,
+      "height": 658,
+      "sha256": "100c6bb2fa76b20d2308160a8f982109f7d041c1ebfea37a7e5dc8c8dc9f1021",
+      "source": "wireshark-network-traffic-analysis/images/PHOTO-2025-10-27-21-11-29.jpg",
+      "crop": [
+        0,
+        0,
+        1568,
+        716
+      ],
+      "redactions": [
+        [
+          136,
+          47,
+          414,
+          716
+        ],
+        [
+          550,
+          333,
+          1568,
+          353
+        ],
+        [
+          550,
+          674,
+          1568,
+          697
+        ]
+      ],
+      "note": "3836\u00d72404 source normalized to 1568\u00d7983 before coordinates are applied. Published packet list: both address columns and SNI rows redacted; payload/MAC/SSID/filename panes omitted. No fresh packet capture."
+    },
+    "soc": {
+      "file": "soc.webp",
+      "width": 1280,
+      "height": 800,
+      "sha256": "02ef9e7f5472a815e25a99361b0b8938ca4c6f91bd6a7ba8ce52e0029f27de74",
+      "source": "-soc-agent-streamlit/soc-agent-streamlit/app.py",
+      "crop": null,
+      "redactions": null,
+      "note": "Original Streamlit UI. Dotenv, credentials and external API calls disabled in the capture environment. Unverified tip omitted. No analysis submitted."
+    },
+    "url": {
+      "file": "url.webp",
+      "width": 558,
+      "height": 364,
+      "sha256": "6f518ee62d667cf7e131d51a46aee93c1a82b0f5c40d6149e66dede7284d207b",
+      "source": "URL-Phishing-Detector2/templates/index.html",
+      "crop": null,
+      "redactions": null,
+      "note": "Original form with original background loaded, cropped to the real form to exclude decorative background art. No URL submitted."
+    },
+    "scanner": {
+      "file": "scanner.webp",
+      "width": 1280,
+      "height": 706,
+      "sha256": "e12eb9880d42f3a4bc1200618f60a2793139bd3137ded620b5123f0eef6f9db3",
+      "source": "web-vuln-scanner/templates/index.html",
+      "crop": null,
+      "redactions": null,
+      "note": "Original configuration section. No scan initiated; marketing/demo placeholders excluded."
+    },
+    "passchecker": {
+      "file": "passchecker.webp",
+      "width": 1280,
+      "height": 800,
+      "sha256": "cc6d519388fbf59782534339d6fb6eb16abbce55b02eb05f5a724270a46f77e5",
+      "source": "password_strength_checker/index.html",
+      "crop": null,
+      "redactions": null,
+      "note": "Original client-side feedback on synthetic Showcase-Example-2026!; input remains masked. Heuristic, not a security guarantee."
+    }
+  },
+  "constraints": [
+    "No new scans, external API lookups, real passwords, production telemetry or invented results",
+    "Existing ASTRA fixtures are explicitly demo data; unimplemented response actions are not exercised",
+    "Source/destination/SNI and lower payload/MAC/SSID panes omitted from published Wireshark evidence",
+    "Scanned Splunk/Wazuh reports are used instead of unverified dashboard illustrations",
+    "Streamlit capture has no credentials or external calls; results are not fabricated"
+  ],
+  "reproduce": "See repository docs/SPATIAL-SHOWREEL.md; studio/render tools are not part of the production runtime"
+}

@@ -1,0 +1,77 @@
+{
+  "ASTRA-Monitor": {
+    "commit": "ffa45993badc72b9683beb6e2c8a79fe00a3248d",
+    "paths": [
+      "README.md",
+      "app.py",
+      "templates/index.html",
+      "static/main.js"
+    ]
+  },
+  "SOC-Threat-Detection-Assistant": {
+    "commit": "38791d1a081b8ebd18f1ef8676308a9c8c0d4ad3",
+    "paths": [
+      "README.md",
+      "soc_agent.py",
+      "images/Screenshot-2025-10-17-at-12.02.08-PM.jpg"
+    ]
+  },
+  "-soc-agent-streamlit": {
+    "commit": "af4541c7fb43f8dd1daf6b3abcb6b283ee10b52d",
+    "paths": [
+      "soc-agent-streamlit/app.py"
+    ]
+  },
+  "splunk-soc-lab": {
+    "commit": "e74f035248f0083a121df1c0625d4ab6c02adc42",
+    "paths": [
+      "README.md",
+      "queries/splunk-searches.md",
+      "screenshots/splunk-dashboard.png",
+      "screenshots/failed-logins.png",
+      "screenshots/monitoring-overview.png",
+      "reports/Jefrin_Final_SOC_Report.pdf"
+    ]
+  },
+  "wazuh-siem-lab": {
+    "commit": "c8a4282c86d5bf593e3e7183a4eea6d46ce6b346",
+    "paths": [
+      "README.md",
+      "screenshots/wazuh-dashboard.png",
+      "screenshots/threat-hunting.png",
+      "screenshots/agent-summary.png",
+      "report/PROJECT_ON_WAZUH.pdf"
+    ]
+  },
+  "wireshark-network-traffic-analysis": {
+    "commit": "ce92f1e3e434dc2cbd9117d70e54493cfd421a88",
+    "paths": [
+      "README.md",
+      "images/PHOTO-2025-10-27-21-11-29.jpg",
+      "Wireshark_Network_Traffic_Analysis_Report.pdf"
+    ]
+  },
+  "URL-Phishing-Detector2": {
+    "commit": "6469831935addff67b3a31b06166b5499c17709b",
+    "paths": [
+      "app.py",
+      "lexical.py",
+      "templates/index.html",
+      "static/bg.jpg"
+    ]
+  },
+  "web-vuln-scanner": {
+    "commit": "02323ba0c8117f7a5edbf9910b6e322604c7fe08",
+    "paths": [
+      "app.py",
+      "scanner.py",
+      "templates/index.html"
+    ]
+  },
+  "password_strength_checker": {
+    "commit": "71640e3a856666b133e79838213d41c6e10f09a8",
+    "paths": [
+      "index.html"
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+[
+  {
+    "id": "passchecker",
+    "file": "passchecker.mp4",
+    "duration": 2.4,
+    "fps": 60,
+    "frames": 144,
+    "errors": [],
+    "submissions": [],
+    "blocked": [],
+    "actions": [
+      {
+        "time": 0,
+        "input": "Showcase-Example-2026!",
+        "feedback": "Excellent password!",
+        "meterWidth": "400px",
+        "modalOpen": false,
+        "mode": null
+      },
+      {
+        "time": 0.6,
+        "input": "abc",
+        "feedback": "Use at least 8 characters",
+        "meterWidth": "100px",
+        "modalOpen": false,
+        "mode": null
+      },
+      {
+        "time": 1.2,
+        "input": "Showcase-Example-2026!",
+        "feedback": "Excellent password!",
+        "meterWidth": "400px",
+        "modalOpen": false,
+        "mode": null
+      },
+      {
+        "time": 2,
+        "input": "Showcase-Example-2026!",
+        "feedback": "Excellent password!",
+        "meterWidth": "400px",
+        "modalOpen": false,
+        "mode": null
+      },
+      {
+        "time": 2.3833333333333333,
+        "input": "Showcase-Example-2026!",
+        "feedback": "Excellent password!",
+        "meterWidth": "400px",
+        "modalOpen": false,
+        "mode": null
+      }
+    ],
+    "note": "Synthetic sample only; genuine original local heuristic"
+  },
+  {
+    "id": "astra",
+    "file": "astra.mp4",
+    "duration": 2.4,
+    "fps": 60,
+    "frames": 144,
+    "errors": [],
+    "submissions": [],
+    "blocked": [],
+    "actions": [
+      {
+        "time": 0,
+        "input": "",
+        "feedback": "",
+        "meterWidth": null,
+        "modalOpen": false,
+        "mode": null
+      },
+      {
+        "time": 0.6,
+        "input": "",
+        "feedback": "",
+        "meterWidth": null,
+        "modalOpen": true,
+        "mode": null
+      },
+      {
+        "time": 1.2,
+        "input": "",
+        "feedback": "",
+        "meterWidth": null,
+        "modalOpen": true,
+        "mode": null
+      },
+      {
+        "time": 2,
+        "input": "",
+        "feedback": "",
+        "meterWidth": null,
+        "modalOpen": false,
+        "mode": null
+      },
+      {
+        "time": 2.3833333333333333,
+        "input": "",
+        "feedback": "",
+        "meterWidth": null,
+        "modalOpen": false,
+        "mode": null
+      }
+    ],
+    "note": "Existing sample table / implemented modal / real dismissal"
+  },
+  {
+    "id": "url",
+    "file": "url.mp4",
+    "duration": 2.4,
+    "fps": 60,
+    "frames": 144,
+    "errors": [],
+    "submissions": [],
+    "blocked": [],
+    "actions": [
+      {
+        "time": 0,
+        "input": "",
+        "feedback": "",
+        "meterWidth": null,
+        "modalOpen": false,
+        "mode": null
+      },
+      {
+        "time": 0.6,
+        "input": "https://ex",
+        "feedback": "",
+        "meterWidth": null,
+        "modalOpen": false,
+        "mode": null
+      },
+      {
+        "time": 1.2,
+        "input": "https://example.invalid",
+        "feedback": "",
+        "meterWidth": null,
+        "modalOpen": false,
+        "mode": null
+      },
+      {
+        "time": 2,
+        "input": "",
+        "feedback": "",
+        "meterWidth": null,
+        "modalOpen": false,
+        "mode": null
+      },
+      {
+        "time": 2.3833333333333333,
+        "input": "",
+        "feedback": "",
+        "meterWidth": null,
+        "modalOpen": false,
+        "mode": null
+      }
+    ],
+    "note": "Original form interaction only; no scan or API verdict"
+  },
+  {
+    "id": "scanner",
+    "file": "scanner.mp4",
+    "duration": 2.4,
+    "fps": 60,
+    "frames": 144,
+    "errors": [],
+    "submissions": [],
+    "blocked": [],
+    "actions": [
+      {
+        "time": 0,
+        "input": "",
+        "feedback": "",
+        "meterWidth": null,
+        "modalOpen": false,
+        "mode": "quick"
+      },
+      {
+        "time": 0.6,
+        "input": "https://example.invalid",
+        "feedback": "",
+        "meterWidth": null,
+        "modalOpen": false,
+        "mode": "quick"
+      },
+      {
+        "time": 1.2,
+        "input": "https://example.invalid",
+        "feedback": "",
+        "meterWidth": null,
+        "modalOpen": false,
+        "mode": "comprehensive"
+      },
+      {
+        "time": 2,
+        "input": "",
+        "feedback": "",
+        "meterWidth": null,
+        "modalOpen": false,
+        "mode": "quick"
+      },
+      {
+        "time": 2.3833333333333333,
+        "input": "",
+        "feedback": "",
+        "meterWidth": null,
+        "modalOpen": false,
+        "mode": "quick"
+      }
+    ],
+    "note": "Original form interaction only; no scan or API verdict"
+  },
+  {
+    "id": "soc",
+    "file": "soc.mp4",
+    "duration": 2.4,
+    "fps": 60,
+    "frames": 144,
+    "errors": [],
+    "submissions": [],
+    "blocked": [],
+    "actions": [
+      {
+        "time": 0,
+        "input": "",
+        "feedback": "",
+        "meterWidth": null,
+        "modalOpen": false,
+        "mode": null
+      },
+      {
+        "time": 0.6,
+        "input": "Documentation sample: connection from 192.0.2.10 on port 443",
+        "feedback": "",
+        "meterWidth": null,
+        "modalOpen": false,
+        "mode": null
+      },
+      {
+        "time": 1.2,
+        "input": "Documentation sample: connection from 192.0.2.10 on port 443",
+        "feedback": "",
+        "meterWidth": null,
+        "modalOpen": false,
+        "mode": null
+      },
+      {
+        "time": 2,
+        "input": "",
+        "feedback": "",
+        "meterWidth": null,
+        "modalOpen": false,
+        "mode": null
+      },
+      {
+        "time": 2.3833333333333333,
+        "input": "",
+        "feedback": "",
+        "meterWidth": null,
+        "modalOpen": false,
+        "mode": null
+      }
+    ],
+    "note": "Explicit documentation sample; no external lookup"
+  }
+]

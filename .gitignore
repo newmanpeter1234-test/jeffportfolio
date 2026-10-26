@@ -1,0 +1,16 @@
+# OS and system files
+.DS_Store
+.fontconfig/
+.sudo_as_admin_successful
+portfolio_git_backup/
+
+# Build & dependencies
+node_modules/
+dist/
+.cache/
+*.tsbuildinfo
+test-results/
+playwright-report/
+
+# Python cache
+**/__pycache__/

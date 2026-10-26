@@ -1,0 +1,1861 @@
+{
+  "phase": "Cleanup before animation work",
+  "baseCommit": "cc876aef7d1cee4567393e999cb110ee3630d34b",
+  "removedFiles": 297,
+  "removedBytes": 52784317,
+  "removed": [
+    {
+      "path": "portfolio/assets/JEFRINE resume-3-4.pdf",
+      "bytes": 273971,
+      "sha256": "d01c5a72a9c7db20365072c8f150f2602aa08d9a865950bad69d3cf5b0b1905c",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/aimonitor.webp",
+      "bytes": 81600,
+      "sha256": "ddcc709bbac77d6a0f83dd83947a2c01a5c26531ba85b11f4e2debb156c8bd0d",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/arrow.png",
+      "bytes": 15528,
+      "sha256": "fdf0f70097ba8dacfe8464a1628fe5dcd97cc8999c40b3e2aa57c4a7fbd40379",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/checkmark.png",
+      "bytes": 18217,
+      "sha256": "d1461b79926fd8d9df799068ecb2c76d044b26b18085757a24e3fee6cf1aafc8",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/education.png",
+      "bytes": 8621,
+      "sha256": "9b4a9a35f3f5d9f904bc77090fc5f40a335d5918dd80d5fae0ac90671e1c0fb6",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/email.png",
+      "bytes": 18688,
+      "sha256": "fdf7cfe0082c018021e21e6d7c73b36f45c416c85c813e93a23403690b15c339",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/experience.png",
+      "bytes": 9917,
+      "sha256": "a3f66c1d9986ca9f4c6317660a43359262df0748b4e7a613dd6c138368a953dc",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/favicon.png",
+      "bytes": 40345,
+      "sha256": "c991a85bbbefb446b310c72ad315280fa38413b001ba57b6eebbcd427d6b2ad5",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/github.png",
+      "bytes": 8640,
+      "sha256": "d83ddf4ea98e9d2e77848869cbe5f0ecabb3058ede22c681bbe07b45a9091909",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/jeff pr.png",
+      "bytes": 3386288,
+      "sha256": "ceaef7e2ecee7f12adf4505b368f637a23f2024c06711c006ab2c052c3c33048",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/jeff pr.webp",
+      "bytes": 85512,
+      "sha256": "2a737d00eb7959b9a20a042d43282844f0b3bfe042f310c7d405a4b589c0c210",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/jeffresume .pdf",
+      "bytes": 56132,
+      "sha256": "315f5e3e47e028504a7deb386897aee3acd4b1cab27c28af1743de17a1980549",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/jeffu-modified.png",
+      "bytes": 2169671,
+      "sha256": "cf517212c92504c0c6bda646c7dcecb817d18c56d5d279ab971438b5b7008109",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/jeffu-modified.webp",
+      "bytes": 63588,
+      "sha256": "227e5c60fb57d1848135bfdaed4f1f29bb4746cd4d54d677f530a1c9089a5e35",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/jefrine-resume.pdf",
+      "bytes": 55628,
+      "sha256": "f3a40bf0e87ff1ee941262adc28559eb2ddb5029b37c4736c55b22cc1e793a54",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/jefrine_resume.pdf",
+      "bytes": 50859,
+      "sha256": "9ad1340a29234f3bc6b81936b2a2d7f3a0a08b296edfcddcddc81b40d107a07c",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/jefrineresume.pdf",
+      "bytes": 55757,
+      "sha256": "7e0c697d8577a4a48cb2ba1c0d5c957f73ec032145d984cd6c0c94b2441d7404",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/linkedin.png",
+      "bytes": 12857,
+      "sha256": "d2335ed0da39bafd93416f352f9a0df6ae7a4fed432c7bfd54422acb169d4fdd",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/project 1.png",
+      "bytes": 825561,
+      "sha256": "e5362957a4cebe873575862188d20ff6488acd6485f3db729a8013126fb7fab5",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/project 3.png",
+      "bytes": 146375,
+      "sha256": "ddd2ff4ee522c3b4067024bf2b526c30c7da67dc6c7356eafd9832c90147604b",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/project-2.png",
+      "bytes": 923492,
+      "sha256": "1fe48fa7d79bca098089ccc61d48c8c305e1d5d936f7ddd32fc5901c7511c0ac",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/project4.webp",
+      "bytes": 52198,
+      "sha256": "2c19556fd08c1e21e48af6178e4b9c977c1ab872496018fc4408ce51bf3b4b37",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/assets/psc.webp",
+      "bytes": 18810,
+      "sha256": "7fc692d9909d68d4c5efac8998986a9f07e6a01127e0296946c0b4954eeb8cc6",
+      "reason": "Unreferenced legacy static-site images and superseded resume copies"
+    },
+    {
+      "path": "portfolio/script.js",
+      "bytes": 11106,
+      "sha256": "fe6b75bb46b3e03f1eb0bd6d0561aa039c9a998b74ae14fab5d25c070afe3203",
+      "reason": "Legacy non-Vite static-site script; not an app entry"
+    },
+    {
+      "path": "portfolio/style.css",
+      "bytes": 23703,
+      "sha256": "1749e24c830b27216f659401c05cd25f83525aa256d42baf2ab08bfaf74115ba",
+      "reason": "Legacy non-imported static-site stylesheet"
+    },
+    {
+      "path": "portfolio/src/components/ThreatGlobe.tsx",
+      "bytes": 12164,
+      "sha256": "44b6cd2f1c9b9a9a90389871f1c0f55386b01d077e5cd17a9f60830ce3a74add",
+      "reason": "Not reachable from the application import graph"
+    },
+    {
+      "path": "portfolio/src/data/land-points.json",
+      "bytes": 70567,
+      "sha256": "93e887f088c958759625c4905d6406f9e63eaa36e8ac0fd23ca2f687eb02e2f5",
+      "reason": "Only referenced by unused ThreatGlobe"
+    },
+    {
+      "path": "portfolio/src/data/hero-showcase.json",
+      "bytes": 229,
+      "sha256": "6c0b022409db02dc2d62719dac9f56c987f44b24b71999869c746a341ad72ca5",
+      "reason": "Only referenced by retired single-project capture tool"
+    },
+    {
+      "path": "portfolio/public/images/globe-fallback.svg",
+      "bytes": 211467,
+      "sha256": "092fb0cdb09246adca2638e76f2825c23e9afb1701f88f470fc99387e48fe3b4",
+      "reason": "Only referenced by unused ThreatGlobe"
+    },
+    {
+      "path": "portfolio/public/images/jefrine-avatar.webp",
+      "bytes": 85512,
+      "sha256": "2a737d00eb7959b9a20a042d43282844f0b3bfe042f310c7d405a4b589c0c210",
+      "reason": "No references in app, styles or active tooling"
+    },
+    {
+      "path": "portfolio/public/images/astra-hero-poster.webp",
+      "bytes": 32468,
+      "sha256": "8738296bfbeeff1b9e0686edb549a54c41f47e7094b0dd5e3fec7d13ad6e42fd",
+      "reason": "Retired capture/low-resolution render input"
+    },
+    {
+      "path": "portfolio/public/images/astra-hero-mobile.webp",
+      "bytes": 11690,
+      "sha256": "68e5af11625eab48a3767174f85b6524b4820e6f5b2088181d6d649c41ea532c",
+      "reason": "Retired single-project mobile poster"
+    },
+    {
+      "path": "portfolio/public/images/cybersecurity-showreel-mobile.webp",
+      "bytes": 12726,
+      "sha256": "38c3db9d92bd8cc351c7b83c278de27ab0f6bd3c8d8bb92a2f87c7fe301a2cdb",
+      "reason": "Only belonged to the obsolete three-project hero config"
+    },
+    {
+      "path": "portfolio/public/media/astra-hero.mp4",
+      "bytes": 706686,
+      "sha256": "06e36af03b6fad9b96ae337550386af6176fc5c3947540b954efcaa4ebda6512",
+      "reason": "Retired single-project loop; current native assets already source-traceable"
+    },
+    {
+      "path": "portfolio/public/media/astra-hero.provenance.json",
+      "bytes": 941,
+      "sha256": "4046198cb163f203b008828ffb1751fd6a08e8e1644bae6ec6b123a536bfb0bf",
+      "reason": "Companion to retired single-project loop"
+    },
+    {
+      "path": "portfolio/public/media/cybersecurity-hero-loop.mp4",
+      "bytes": 939012,
+      "sha256": "ebc572cebfecccc5c28446ee1124952f501cb6d0919068152551e1bf2d05f7f7",
+      "reason": "Old three-project hero; no current app consumer"
+    },
+    {
+      "path": "portfolio/public/_headers",
+      "bytes": 163,
+      "sha256": "bdfc71f53fa039454c1f041773bd774453233a36c45eb2fe9df6a6f5074465cd",
+      "reason": "Obsolete alternate-host config; Vercel JSON is authoritative"
+    },
+    {
+      "path": "portfolio/public/_redirects",
+      "bytes": 19,
+      "sha256": "6036983e5fc00f0169c9e939b1816ed771eee00e27f2fcc517b819041460b9ef",
+      "reason": "Obsolete alternate-host SPA config"
+    },
+    {
+      "path": "portfolio/scripts/hero/capture.mjs",
+      "bytes": 7483,
+      "sha256": "5940451a49cbc19c8575320c4be9802fcb53be4ebbcefad24b793a37ddc3db35",
+      "reason": "Retired initial single-project recorder"
+    },
+    {
+      "path": "portfolio/scripts/hero/serve-astra.py",
+      "bytes": 856,
+      "sha256": "06698e1e73ae97bd215ce90a06de0e918f6352d220719e03602c8187724ebc60",
+      "reason": "Retired initial single-project recorder"
+    },
+    {
+      "path": "portfolio/scripts/footage-glass/composite.py",
+      "bytes": 10379,
+      "sha256": "3534ac84c7919b2d27dfc9af4173a98dc80603e48cb6f27f1a1e9221d41c4a7e",
+      "reason": "Retired artifact-prone repair pipeline; pacing moved to current recipe"
+    },
+    {
+      "path": "portfolio/scripts/footage-glass/edit.json",
+      "bytes": 6453,
+      "sha256": "f0a71f275205a2a3da6ff4c7c555cbb7954f9bde0e46df8ea0ffe2fbd5a52310",
+      "reason": "Retired artifact-prone repair pipeline; pacing moved to current recipe"
+    },
+    {
+      "path": "portfolio/scripts/footage-glass/export.py",
+      "bytes": 6200,
+      "sha256": "c51c3ad7e30c22dc997c6081c6ef43eeba0b610bcc04bb0a773551e67ad64b12",
+      "reason": "Retired artifact-prone repair pipeline; pacing moved to current recipe"
+    },
+    {
+      "path": "portfolio/scripts/footage-glass/finish.py",
+      "bytes": 7968,
+      "sha256": "9ece4dc250e75a739df0eebc612e48340dc433da37335fa6591b6cbb8b5797b1",
+      "reason": "Retired artifact-prone repair pipeline; pacing moved to current recipe"
+    },
+    {
+      "path": "portfolio/scripts/footage-glass/polish.py",
+      "bytes": 4441,
+      "sha256": "e8df18f1bc6e683cc3fa5f998db54fd8848c368462d6d913406cb90b9dfa93de",
+      "reason": "Retired artifact-prone repair pipeline; pacing moved to current recipe"
+    },
+    {
+      "path": "portfolio/scripts/footage-glass/requirements.txt",
+      "bytes": 47,
+      "sha256": "9d374d79842d3720c2a232c22a27b2f92db88c46d479dd9bc7616300a52abfe1",
+      "reason": "Retired artifact-prone repair pipeline; pacing moved to current recipe"
+    },
+    {
+      "path": "portfolio/scripts/footage-glass/track.py",
+      "bytes": 3376,
+      "sha256": "3e685eec6e87eabe4c0676ab07456d7a2cb04cec7eaf9310e3a957048ed189c2",
+      "reason": "Retired artifact-prone repair pipeline; pacing moved to current recipe"
+    },
+    {
+      "path": "portfolio/scripts/footage-glass/verify.py",
+      "bytes": 2563,
+      "sha256": "99f52a71f8c507a5cb068ac3ee55da728fde88a44b792c3ba11b31705e402477",
+      "reason": "Retired artifact-prone repair pipeline; pacing moved to current recipe"
+    },
+    {
+      "path": "portfolio/scripts/showreel/assets/astra-detail.webp",
+      "bytes": 23778,
+      "sha256": "261fd662d62a1322f82e076a0c6b6e5f28d6e4b4dc229a41bb6a2a0940738e47",
+      "reason": "Superseded lower-density render textures, no active loader"
+    },
+    {
+      "path": "portfolio/scripts/showreel/assets/astra.webp",
+      "bytes": 40886,
+      "sha256": "91343fa5b4d55f103d615d080f346706eb0c7236df70d7070fffd7db1d766510",
+      "reason": "Superseded lower-density render textures, no active loader"
+    },
+    {
+      "path": "portfolio/scripts/showreel/assets/evidence.json",
+      "bytes": 4432,
+      "sha256": "0d20114b57b9a2ce12b8f1b785423f7a2222af1e12629689112defbeb36627fe",
+      "reason": "Superseded lower-density render textures, no active loader"
+    },
+    {
+      "path": "portfolio/scripts/showreel/assets/passchecker.webp",
+      "bytes": 12464,
+      "sha256": "cc6d519388fbf59782534339d6fb6eb16abbce55b02eb05f5a724270a46f77e5",
+      "reason": "Superseded lower-density render textures, no active loader"
+    },
+    {
+      "path": "portfolio/scripts/showreel/assets/scanner.webp",
+      "bytes": 23328,
+      "sha256": "e12eb9880d42f3a4bc1200618f60a2793139bd3137ded620b5123f0eef6f9db3",
+      "reason": "Superseded lower-density render textures, no active loader"
+    },
+    {
+      "path": "portfolio/scripts/showreel/assets/soc.webp",
+      "bytes": 23306,
+      "sha256": "02ef9e7f5472a815e25a99361b0b8938ca4c6f91bd6a7ba8ce52e0029f27de74",
+      "reason": "Superseded lower-density render textures, no active loader"
+    },
+    {
+      "path": "portfolio/scripts/showreel/assets/splunk.webp",
+      "bytes": 20386,
+      "sha256": "9b6e816ea9f540a262afea6d54004cd40a80d5fb9b2eb3afe9675b837258640a",
+      "reason": "Superseded lower-density render textures, no active loader"
+    },
+    {
+      "path": "portfolio/scripts/showreel/assets/url.webp",
+      "bytes": 11986,
+      "sha256": "6f518ee62d667cf7e131d51a46aee93c1a82b0f5c40d6149e66dede7284d207b",
+      "reason": "Superseded lower-density render textures, no active loader"
+    },
+    {
+      "path": "portfolio/scripts/showreel/assets/wazuh-detail.webp",
+      "bytes": 79350,
+      "sha256": "36341945cdc807f7de790a4182f1a8fe782145db3dd08efb4fe3d3f609d283d7",
+      "reason": "Superseded lower-density render textures, no active loader"
+    },
+    {
+      "path": "portfolio/scripts/showreel/assets/wazuh.webp",
+      "bytes": 61116,
+      "sha256": "9f6a8f193f9c81a6224c453893c432ad9941d027e98da7dad3f6350587ac37b1",
+      "reason": "Superseded lower-density render textures, no active loader"
+    },
+    {
+      "path": "portfolio/scripts/showreel/assets/wireshark.webp",
+      "bytes": 154620,
+      "sha256": "100c6bb2fa76b20d2308160a8f982109f7d041c1ebfea37a7e5dc8c8dc9f1021",
+      "reason": "Superseded lower-density render textures, no active loader"
+    },
+    {
+      "path": "portfolio/scripts/showreel/renderer/panel.mjs",
+      "bytes": 4689,
+      "sha256": "85ab56d97f9325d2d2ce9937efab63d48901a935be0f066257e9346d146caa3d",
+      "reason": "Retired labelled/card-based scene branch"
+    },
+    {
+      "path": "portfolio/scripts/showreel/inspect.mjs",
+      "bytes": 1546,
+      "sha256": "290e8475cba81d823ea2815b1afe8aa1a4a00d1849d48f0712e7cca76fd91a1d",
+      "reason": "Superseded by native-clean/inspect.mjs"
+    },
+    {
+      "path": "portfolio/scripts/showreel/render.mjs",
+      "bytes": 4246,
+      "sha256": "82324a16c4173aa0f1679627d58fb4f8350b466a1bd3fcc25c8a4a478052b7e0",
+      "reason": "Superseded by native-clean/render.mjs"
+    },
+    {
+      "path": "portfolio/scripts/showreel/prepare-assets.py",
+      "bytes": 4280,
+      "sha256": "02fc2639d5c72da09c974fbf33971a1e76abe30074db0e14595c50d4127079ee",
+      "reason": "Superseded by native-clean/prepare-assets.py"
+    },
+    {
+      "path": "portfolio/scripts/showreel/capture-interfaces.mjs",
+      "bytes": 2558,
+      "sha256": "478a076e27f83f9f2f1fcaa6e95b2c724375f41e65a0fa524c935ecb7f20b9e9",
+      "reason": "Superseded by native-clean/capture.mjs"
+    },
+    {
+      "path": "portfolio/scripts/showreel/export-posters.mjs",
+      "bytes": 1482,
+      "sha256": "85d3f8b98f8e42cd769463488bba9ee81b726c57f96666f1334af72dd9de7477",
+      "reason": "Old gallery-poster generator; current native posters are delivered"
+    },
+    {
+      "path": "portfolio/scripts/showreel/export-site-data.mjs",
+      "bytes": 1764,
+      "sha256": "40d6022d76434ecfb11fcd25816ee01fbdbffb9b3b3e2c3afd5128d476000297",
+      "reason": "Obsolete hero metadata generator; current archive metadata retained"
+    },
+    {
+      "path": "portfolio/scripts/showreel/verify-media.py",
+      "bytes": 3971,
+      "sha256": "ad49d81bbbbe05d4de6bc0ea22580b30a866836e65167ba2c0b2ba12ebe06fc5",
+      "reason": "Old media QA; active native verifier retained"
+    },
+    {
+      "path": "portfolio/scripts/showreel/verify-scene-system.mjs",
+      "bytes": 2691,
+      "sha256": "1e35de5a492d92595b8280440575d64e62e7e4995e58d3bd20d2792c3bb209f9",
+      "reason": "Old low-density-asset QA; active source/camera verifier retained"
+    },
+    {
+      "path": "portfolio/docs/QA-SPATIAL-SHOWREEL-2026-10-22.json",
+      "bytes": 60244,
+      "sha256": "968b21f8dd3b947fe997085dc13320c8b1a0143ea6d822e18e43f125e317dfc9",
+      "reason": "Superseded historical review/QA/draft; recoverable from prior Git commits"
+    },
+    {
+      "path": "portfolio/docs/PORTFOLIO-REVIEW-2026-10-22.md",
+      "bytes": 10811,
+      "sha256": "8e93065d5596994679a0701c3e95652b85505090702baf965cecaefcd519c36d",
+      "reason": "Superseded historical review/QA/draft; recoverable from prior Git commits"
+    },
+    {
+      "path": "portfolio/docs/HERO-UPGRADE.md",
+      "bytes": 15092,
+      "sha256": "3ab23d1bc9d46556328e7220c8bf3c8d54221e757ed87b8f5c92c99ff7b2959e",
+      "reason": "Superseded historical review/QA/draft; recoverable from prior Git commits"
+    },
+    {
+      "path": "portfolio/docs/QA-2026-10-22.md",
+      "bytes": 2453,
+      "sha256": "13eb176b4b161a3bcc23e3936f56eaa5c8b669f662acd36e2a3bca24a37283fb",
+      "reason": "Superseded historical review/QA/draft; recoverable from prior Git commits"
+    },
+    {
+      "path": "portfolio/docs/QA-2026-10-22.json",
+      "bytes": 3663,
+      "sha256": "2458e5764b9edcbcd572222cd55179e021c52f8a10dbea490b7cdf8c2317d4a5",
+      "reason": "Superseded historical review/QA/draft; recoverable from prior Git commits"
+    },
+    {
+      "path": "portfolio/docs/QA-HERO-2026-10-22.json",
+      "bytes": 37501,
+      "sha256": "08dbb17c9e7061f936fc4275e13c4481b496a00bcba23318701db11c595f0fd0",
+      "reason": "Superseded historical review/QA/draft; recoverable from prior Git commits"
+    },
+    {
+      "path": "portfolio/docs/QA-CONTACT-2026-10-22.json",
+      "bytes": 827,
+      "sha256": "7c1081785dacd819f2f4ef61ec4916f8e49f027cc910d58d7406a1f1a6e2c051",
+      "reason": "Superseded historical review/QA/draft; recoverable from prior Git commits"
+    },
+    {
+      "path": "portfolio/docs/QA-HERO-2026-10-22.md",
+      "bytes": 6417,
+      "sha256": "b1d2a484cdf08fc6fa319e69e396e154cabfac359ef1a2d00e72743647428915",
+      "reason": "Superseded historical review/QA/draft; recoverable from prior Git commits"
+    },
+    {
+      "path": "portfolio/docs/LIQUID-GLASS-EDIT.md",
+      "bytes": 11014,
+      "sha256": "b65fbeb115525bea533602e17e67e817358fc051544e9a96fffd4924934ec5f8",
+      "reason": "Superseded historical review/QA/draft; recoverable from prior Git commits"
+    },
+    {
+      "path": "portfolio/docs/QA.md",
+      "bytes": 3224,
+      "sha256": "373ee9dae9d1f065d269b64d056b0f087d3e9d51591c485505a5fff26dec4f71",
+      "reason": "Superseded historical review/QA/draft; recoverable from prior Git commits"
+    },
+    {
+      "path": "portfolio/docs/SPATIAL-SHOWREEL.md",
+      "bytes": 19692,
+      "sha256": "19b4caece7db53074d12e027ea9e9a7a9a4b97b49dcd15ea82dceb56c592df18",
+      "reason": "Superseded historical review/QA/draft; recoverable from prior Git commits"
+    },
+    {
+      "path": "portfolio/docs/PULL_REQUEST.md",
+      "bytes": 3522,
+      "sha256": "7b3f8dc961c3a67b9811cb455febc1d516aa604dd5f2af930c8f78c9c4e4b87a",
+      "reason": "Superseded historical review/QA/draft; recoverable from prior Git commits"
+    },
+    {
+      "path": "portfolio/docs/QA-LIQUID-GLASS.json",
+      "bytes": 3543,
+      "sha256": "ce7d6d3c51283f2d8cf84ebb441e61177b086b1ea8334ac5bbad46b99a422d23",
+      "reason": "Superseded historical review/QA/draft; recoverable from prior Git commits"
+    },
+    {
+      "path": "portfolio/docs/QA-results.json",
+      "bytes": 790,
+      "sha256": "ab7c8778dfe80b4a516926dd6778909ba7a08fe70b154424c580e94f55cca902",
+      "reason": "Superseded historical review/QA/draft; recoverable from prior Git commits"
+    },
+    {
+      "path": "portfolio/docs/QA-CONTACT-2026-10-22.md",
+      "bytes": 2655,
+      "sha256": "ae9b81ab46f364f38df8166f2bb90faed0402f49aa991adc24cab55e6d53acd8",
+      "reason": "Superseded historical review/QA/draft; recoverable from prior Git commits"
+    },
+    {
+      "path": "research/JEFRINE resume-3-4.txt",
+      "bytes": 2906,
+      "sha256": "96ab99db73d7fad1d50937ba80ac841ecdc62659f7a006ef6c50051a4819292a",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/astra.png",
+      "bytes": 450495,
+      "sha256": "8d2bc8fef0e323692260bf08f3bb923354f84949bd67d203c7876250bce24633",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/code/-soc-agent-streamlit__soc-agent-streamlit__app.py",
+      "bytes": 10402,
+      "sha256": "f7807f43f39f7815218d1c4f0644954e8a8088152c03f0d3748359eb06f991f1",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/code/ASTRA-Monitor__app.py",
+      "bytes": 4782,
+      "sha256": "8ed613bd28970112951ff33b80cc0f7264a2f694aa665e949e0d7d4f94365c90",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/code/ASTRA-Monitor__requirements.txt",
+      "bytes": 451,
+      "sha256": "fec15f35c645d6894868d78f04dcaf21275e68414371ccbc4867fcafb4d0643a",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/code/ASTRA-Monitor__trainmodel.py",
+      "bytes": 4046,
+      "sha256": "0c0ffab3c8260063f3ee195192c7147f99695b0f74f5544be2ec898c25a10870",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/code/SOC-Threat-Detection-Assistant__soc_agent.py",
+      "bytes": 7758,
+      "sha256": "243ced166bf1ffa3581bdd3e0ca805b3bbf2ace7fedfb5e37fdc7ec679829e02",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/code/URL-Phishing-Detector2__app.py",
+      "bytes": 1422,
+      "sha256": "49806a79a0409a3d8ac6d92468b9b50dad435a257dde238de27828b88cb1369e",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/code/URL-Phishing-Detector2__lexical.py",
+      "bytes": 5581,
+      "sha256": "a387230d6abae1d5258a1e7e3357cfcdf7ddbeb5a00b8713396ac656433ac5be",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/code/jeffportfolio__assets__jeffresume .pdf",
+      "bytes": 80770,
+      "sha256": "9034fcc296b821f35b48499bd226143ea865bb9c2046108d699879de1481b36a",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/code/jeffportfolio__script.js",
+      "bytes": 19857,
+      "sha256": "4a5bf9a71596b045f912fd755cee8175853fdfca6457e4f16383feaf84cb6245",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/code/password_strength_checker__index.html",
+      "bytes": 10920,
+      "sha256": "7bdf38421c65b566670ff0a307da41a1d0e341b32b78a84b9670bc7b99c38bfb",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/code/splunk-soc-lab__detections__use-cases.md",
+      "bytes": 2559,
+      "sha256": "546034ac82561dd20bad637e7d09a438d7ef5cae79ad669a5905910384b319a2",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/code/splunk-soc-lab__queries__splunk-searches.md",
+      "bytes": 1904,
+      "sha256": "81c2c05d7f125cf046537caf58ab2e0bf5203919068666a61544e3999f125ecf",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/code/student-leave-management-system__package.json",
+      "bytes": 415,
+      "sha256": "04df5c13682d2e65d6a2df567ede3599a7338785f54f398d4b4c4ca10e6c5726",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/code/student-leave-management-system__services__mockApi.ts",
+      "bytes": 4613,
+      "sha256": "519aa2d279ebf518b738c526ed9d14beebb3ed7160fe56ca43c55b0f76516b3b",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/code/web-vuln-scanner__app.py",
+      "bytes": 5900,
+      "sha256": "c5755d0e57c785ecb3c160cf700dad509cb05449cd38177dc27a344993ea2ca5",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/code/web-vuln-scanner__scanner.py",
+      "bytes": 4214,
+      "sha256": "7ab7c2f7e464a625753586dfab6f06e23b5bd6f14c814743f08b7876c1e4b752",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/contact-update-20261022/activation-probe.json",
+      "bytes": 837,
+      "sha256": "2225c39c41eed2a5f3c7cd0d09e5b226da585cac065206b81c5b573e8f159b31",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/contact-update-20261022/contact-desktop.png",
+      "bytes": 702355,
+      "sha256": "cefb048336df02e38b64789ac2e61046566d443ba88c9a25d8c1fbb7bf60033c",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/contact-update-20261022/contact-mobile.png",
+      "bytes": 313930,
+      "sha256": "a7e3d99053bb2ab5af03457bc726bdcaf597f1b97c23a65a104c8f4a1653366d",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/contact-update-20261022/full-playwright-results.json",
+      "bytes": 33473,
+      "sha256": "a66023d9437abdb669e34e4cf9d4d539c1c99a2c558b326fae5136c04b79ee58",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/contact-update-20261022/live-contact-tests.txt",
+      "bytes": 1670,
+      "sha256": "93de179f3ab21716a57596b324e7620d3325ddaa1545bcc51a76015156df1689",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/document-update-20261022/CICSA Certifcate.png",
+      "bytes": 573342,
+      "sha256": "9b4659686224039f59b4760ffa2dd17618a71571698b7fea3a61772025223bf8",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/document-update-20261022/CICSA Certifcate.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/document-update-20261022/ECC_CSA_Certificate.png",
+      "bytes": 239647,
+      "sha256": "d28ca4f78334a02135ebeeb7cd60cdbc0e22a551231d2ab696b8511275183fad",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/document-update-20261022/ECC_CSA_Certificate.txt",
+      "bytes": 571,
+      "sha256": "f0bd53dec0ce9430d2053c80b37420e90d3709bfadcbf05258c901280b87d666",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/document-update-20261022/Jefrine-experience.png",
+      "bytes": 301991,
+      "sha256": "b45c1cb31800fe6896b473e9c93c877976e276752b82dfd5781335513279c905",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/document-update-20261022/Jefrine-experience.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/document-update-20261022/jeffresume-qatar.png",
+      "bytes": 252021,
+      "sha256": "77038941b1261fd6493a7cbc5afa3d2991cfd00d150306ae3a93644aecaecbdb",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/document-update-20261022/jeffresume-qatar.txt",
+      "bytes": 3762,
+      "sha256": "b04185e795520ccac73960a89d86edcb397e56f20101c578c808f549fa1ed947",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/document-update-20261022/qa/credentials-desktop.png",
+      "bytes": 1001216,
+      "sha256": "b3715a12e1327a8f49801c40143a063ed341068bfaf4f9eeaaf73545c8c7ece1",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/document-update-20261022/qa/credentials-mobile.png",
+      "bytes": 483561,
+      "sha256": "3acbd39f1a741fa100d4a616b94b6c8bfdbc4f2aec50fae5fa3f2f014827b9d6",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/document-update-20261022/qa/experience-viewer-desktop.png",
+      "bytes": 155365,
+      "sha256": "93696eb3486c81acf5b9561a7a95b2bc835e22ff7110637dd4903b507fb8b88b",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/document-update-20261022/qa/experience-viewer-mobile.png",
+      "bytes": 76733,
+      "sha256": "0a13b166660bea41c0b68ef4b8d4614620c96cd3cdfc1665447a6703c9af4d7a",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/document-update-20261022/qa/full-playwright-results.json",
+      "bytes": 48922,
+      "sha256": "3b0bf1188fa7598bd3a2a409cb3e342eb9b98c6f8607b0572ac2250b0f38278d",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/document-update-20261022/qa/live-document-tests.txt",
+      "bytes": 1179,
+      "sha256": "33f2e82acfab683b4428adc6e3f192e31c8bb88179c01dd0d14e16fb542c6b43",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/document-update-20261022/qa/npm-audit.json",
+      "bytes": 364,
+      "sha256": "cb80885959f415ef5e5ce2dd30c5d49664473c650e016f89729d4d0f93b5ae77",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/document-update-20261022/qa/offline-smoke.json",
+      "bytes": 203,
+      "sha256": "4ba90248da206f75e767961875ede6f53eae43c4503c7473bed6750e80b19a85",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/document-update-20261022/qa/resume-viewer-desktop.png",
+      "bytes": 203615,
+      "sha256": "c593c2109c823db765c97b26f3b9902a27cb384a01970188be47d2df78a86c41",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/document-update-20261022/qa/resume-viewer-mobile.png",
+      "bytes": 104711,
+      "sha256": "e0ae00c7b23353425f6bc5805c62649420d45eedacfbda9998396ba12d9063aa",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/github-profile.json",
+      "bytes": 1204,
+      "sha256": "b8b7017ac2a6d189978e6751f127018f0269d81a86a5c557765aef36565491e2",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/github-repos.json",
+      "bytes": 142490,
+      "sha256": "f3640aa834e460b5c17ea25933bd50301b241dba7c630b35bcd4067a919395b1",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/hero-upgrade-20261022/full-tests.log",
+      "bytes": 10138,
+      "sha256": "2f9a26d735bb35601db61925ff540ed6f136eb23354af72ed995016a715d6002",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/hero-upgrade-20261022/hero-reviewed-desktop.webp",
+      "bytes": 65940,
+      "sha256": "e0f2ea23dab5ad8c2d994c1d2f872f009b2e15246f18bd1372e6a289e5cc582c",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/hero-upgrade-20261022/hero-reviewed-mobile.webp",
+      "bytes": 31238,
+      "sha256": "200a98eae62045df24e3e3b1a8d64d1309e6be609a764cef5df0f9d931dd6b89",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/hero-upgrade-20261022/hero-reviewed-tablet.webp",
+      "bytes": 59250,
+      "sha256": "7ea9c874fcbb81e95f7e976dbc11710d679cfca25294e0d7c999b2d791567865",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/hero-upgrade-20261022/hero-tests.log",
+      "bytes": 6055,
+      "sha256": "2e362ee89273c09ee76d764c7c835e510a83933eb1d0c08cdff07da4b270d721",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/hero-upgrade-20261022/production-audit.json",
+      "bytes": 364,
+      "sha256": "cb80885959f415ef5e5ce2dd30c5d49664473c650e016f89729d4d0f93b5ae77",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/hero-upgrade-20261022/public-tests.log",
+      "bytes": 10151,
+      "sha256": "4ef6f9f90e0bca9df372f1feb592e17b2f47287042cc365ecf95dc8cb6f21d49",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/hero-upgrade-20261022/visual-review.json",
+      "bytes": 331,
+      "sha256": "027d5ce50cbd5d86068e3aeb6a13f78c80dda2e4b76d760da70e54c57120cb86",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/ibm-plex-mono-fonts.css",
+      "bytes": 442,
+      "sha256": "e89609964cbb5744c8b220c7ffe17644b643984d516a0525572e849c430eb590",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/inter-fonts.css",
+      "bytes": 916,
+      "sha256": "34bd07407ad1de576cba1f67651fa31a8fe783e24a6e1817e08c24bdc54014f9",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/jeffresume .txt",
+      "bytes": 3764,
+      "sha256": "a38c4849341cfe7ecf56d26f519c62ab5dff0d465b49c199e4894f7bc6882a5b",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/jefrine-resume.txt",
+      "bytes": 2873,
+      "sha256": "675c53b067fba23866f5d9410c3565c5c4509c04c7759461f8b0e13753d5bc0d",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/jefrine_resume.txt",
+      "bytes": 2848,
+      "sha256": "2e62d14404eca6b4c56eb0bec1a9cf77c0f2a3d0bb8baae593ae68c3d1ce80f1",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/jefrineresume.txt",
+      "bytes": 3257,
+      "sha256": "b796b37f1fd70dda60b838868eeb5a92cdcbf159eb7ef13ad9798ca73e311a0a",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/live-resume.pdf",
+      "bytes": 80770,
+      "sha256": "9034fcc296b821f35b48499bd226143ea865bb9c2046108d699879de1481b36a",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/live-resume.txt",
+      "bytes": 3627,
+      "sha256": "cb83d60bb7d4e6e132854b43ef6ab5f0de5440052b3ace0a1a9ca85f2e876946",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/live-site.html",
+      "bytes": 51759,
+      "sha256": "ad2bd29cab7458df9dcbac38f5bf66f93469f64e2d85338e96ddbfc3248ece4b",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/netflix.png",
+      "bytes": 752059,
+      "sha256": "60bf495953cd8cdb0534df922ac3cc98e242efdde716f048521cbb9e6b5c1672",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/passchecker.png",
+      "bytes": 280960,
+      "sha256": "1f88f8e60d6738e1366971b71ae5f9021e1ac16b68846fa8a3ccaccfe4f21ef4",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/phishing-detector.png",
+      "bytes": 290631,
+      "sha256": "7cb0207b6c833f79010cf768f679690f6438ac8b3a215051c095ed1fc65d1dd4",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/qa/axe-home.json",
+      "bytes": 31460,
+      "sha256": "e8907119d45f9ace9bd33727958a66d143a578e232b645d35b3c0e051e47f928",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/qa/axe-pages.json",
+      "bytes": 141,
+      "sha256": "4b797b9559e46815d8102c226399e5186dab1145bcee7b9d015f07b51425cf79",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/qa/desktop-home.png",
+      "bytes": 846784,
+      "sha256": "71c4a1ecd72beb920c7e6bc704110a74492ab701392a075f4ec73ea3fdf387ab",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/qa/desktop-projects-page.png",
+      "bytes": 794004,
+      "sha256": "62eef49a1b2b2c953571123036e05f6fc8deeba671ecf1e7315e8e4d384c724c",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/qa/desktop-projects-section.png",
+      "bytes": 986888,
+      "sha256": "3251594d1d0183d7fb4fc64525868e2d5def09e4f62e7894a74edff27762d6f6",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/qa/final-desktop.png",
+      "bytes": 856412,
+      "sha256": "223563e5af382884a80efb881a9eb7b761588432b992f930b9ffa749b3f16461",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/qa/final-mobile.png",
+      "bytes": 332833,
+      "sha256": "a88c9f75abd77414ca35ec6cccf6956494138ba5c0081a84a2bbf9aa31c0ecd5",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/qa/mobile-home.png",
+      "bytes": 323862,
+      "sha256": "1213af0221076e61cc293c18ed7ecf0076593f72c106ac9711c5ef977c331a55",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/qa/offline-iframe.png",
+      "bytes": 1119393,
+      "sha256": "db00ba8beda502909ce83c3a5b91985dfa76ba3f7e2cedda1628ae732d6c7e4e",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/qa/offline-smoke.json",
+      "bytes": 136,
+      "sha256": "44e99be09f412f5a6e2a498830467fb8cacbfc8a6be6c37336557d924b8bc024",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/qa/production-smoke.json",
+      "bytes": 117,
+      "sha256": "0241ab5023f0e76aa27d3900f8ff1ef0587850b4be415d70620197ef39a7513f",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/repositories/ASTRA-Monitor.md",
+      "bytes": 2286,
+      "sha256": "98971ff94f64746f9a0caaac40febed7260013fa0837dd1bb0686453b8d20000",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/repositories/IOC-Automation-Pipeline.md",
+      "bytes": 1299,
+      "sha256": "df28eb60a0ea40bd2215b44fc93fb60af7c981bde2427b13fb4b7bbf7b466ad8",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/repositories/Portfolio.md",
+      "bytes": 11,
+      "sha256": "a4a9ed7f1e2dec5063ec5bf600dde3b7db8f10ad81c215e33aa050509caaed0e",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/repositories/SOC-Threat-Detection-Assistant.md",
+      "bytes": 2691,
+      "sha256": "77fb9a2b441e56069ab328ae44292d18739de2f1188fb25d867587c6282f3962",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/repositories/VPN-Privacy.md",
+      "bytes": 454,
+      "sha256": "df5c4a362d2f473141fb08b705e63ae9f0d53422122a9b26127cdfd93b04e296",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/repositories/browser-extension-security-check.md",
+      "bytes": 711,
+      "sha256": "5b2b38ee31796e4fe91cb416c72963517b4735d1b0cdb7864d6e2c16d9aaffa9",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/repositories/cybersecurity-portscan-project.md",
+      "bytes": 1491,
+      "sha256": "c53039c52751ddb81f9237d8fcdec6309858377d67f931a5487cf41f798263e5",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/repositories/jeff-1217.md",
+      "bytes": 334,
+      "sha256": "3e5f086bc776e58a93048a414d26e5e44ad877110f6c2eb312d295dac9798013",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/repositories/jeffportfolio.md",
+      "bytes": 11,
+      "sha256": "a4a9ed7f1e2dec5063ec5bf600dde3b7db8f10ad81c215e33aa050509caaed0e",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/repositories/nessus-vulnerability-scan.md",
+      "bytes": 3118,
+      "sha256": "f1ccdf90f9fd43545602bba2f0a69795be76886d1907006b1d8d5c90570edfd8",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/repositories/password-security-analysis.md",
+      "bytes": 2518,
+      "sha256": "78b9550eff8e6e6ec15daff7af90f5ee818e8443c5f0b5af8f20483826871fb4",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/repositories/password_strength_checker.md",
+      "bytes": 54,
+      "sha256": "90e5c134b91564260d2cda63428fdae66b7dbd90c892a9d59eca4f0c2bf49f0a",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/repositories/phishing-email-analysis.md",
+      "bytes": 875,
+      "sha256": "1572957206a95d6cfcbc8c911ffbee189c6cab26e01aceefeb5709aa19d588bd",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/repositories/splunk-soc-lab.md",
+      "bytes": 3267,
+      "sha256": "8cfc919cedae7782d668797ae52e06a6adc362ef634eded6fa6ad79cbd5bc60d",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/repositories/student-leave-management-system.md",
+      "bytes": 553,
+      "sha256": "771d7ce7fb5e24cb2127cfd25b754eae9e3a811a9e35d2fb0e08e8aaf635ac20",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/repositories/ufw-firewall-configuration.md",
+      "bytes": 2338,
+      "sha256": "fc6531dcd9d5de7eb5c57b3ea2e223385c375321187b97216de73992a93dfc3b",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/repositories/watchdemo.md",
+      "bytes": 1027,
+      "sha256": "a460b4dc7e6392e76aa54d844c9261b8db0adb7f967ba8300526456f1dcf5fb4",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/repositories/wazuh-siem-lab.md",
+      "bytes": 3791,
+      "sha256": "042c0ed9e5a088118bb7a4516631e7798be4a35ef0fc0883d4706e49bfc4304b",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/repositories/web-vuln-scanner.md",
+      "bytes": 19,
+      "sha256": "b0d5004158e8230dc799e998c2e47ab9162fa0a800922ead45f06686cbd5df37",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/repositories/wireshark-network-traffic-analysis.md",
+      "bytes": 1517,
+      "sha256": "f60a6ef863ca41cec8d2ba635335e0a913ab2bea7f98fad2aa8ebe3b1c8836f5",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/slms.png",
+      "bytes": 534840,
+      "sha256": "6481f273731bb68e2dac1b932f598d7c44a471cca6031d521625a2c0acaecb7e",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/soc-assistant.png",
+      "bytes": 366687,
+      "sha256": "705d7e4b3db87ebc8b2c5910900e92dd762864f171e41d70eb6b34c3d4736e9f",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/space-grotesk-fonts.css",
+      "bytes": 948,
+      "sha256": "8d03eb23399e2fdc3d8e60573c7252f7990a7fe13082e4de2267308760ce0eb4",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/splunk.png",
+      "bytes": 109181,
+      "sha256": "70afce2fa014194a01d59aa081c10e2e5e8cf272a3d21729c1ccc40d9d4fc69a",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/trees/-soc-agent-streamlit.json",
+      "bytes": 1116,
+      "sha256": "aec8f4163d717a5ae5014d5159280aa67a34d4f214461bba283f361dc5f50376",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/trees/ASTRA-Monitor.json",
+      "bytes": 6435,
+      "sha256": "21f00308be56e27d559528379ff98b94845a4a789617933429b98ccf996ad50e",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/trees/SOC-Threat-Detection-Assistant.json",
+      "bytes": 3734,
+      "sha256": "967690568547f7f6b959c880806290b95f7c71e12bedc8f041e46954f414d39c",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/trees/URL-Phishing-Detector2.json",
+      "bytes": 2525,
+      "sha256": "3ee0ff6ede5826cfe47933cc75fc85df74d306429be2ce7df8029217298e0198",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/trees/jeffportfolio.json",
+      "bytes": 11074,
+      "sha256": "647f5711a470c5f43b528cc4ae9e84939539080943b442376971e58b28eb63e8",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/trees/password_strength_checker.json",
+      "bytes": 809,
+      "sha256": "8a28639f1c9f42987b75f94557d8aec637fd16c9c218ba60c3582e0a3924dc19",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/trees/splunk-soc-lab.json",
+      "bytes": 4542,
+      "sha256": "f91d5905156dd6a05302ee5f73563b7ae1c9594ab766b155b2c258bc72f1b248",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/trees/student-leave-management-system.json",
+      "bytes": 8057,
+      "sha256": "2b672278bf817d594115f12c0ac024981e5bf103c1e5ad216b13bb30a28ee692",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/trees/url-phishing-detector.json",
+      "bytes": 360533,
+      "sha256": "5ec449790c154d4445d515ebd03f351290ea3b53729d4e2e6df099faa5636e25",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/trees/wazuh-siem-lab.json",
+      "bytes": 3662,
+      "sha256": "dca5da9de05772a91fa00a409f0e069dd6457ae42d648e2930d1bd6d25c6d2c7",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/trees/web-vuln-scanner.json",
+      "bytes": 681759,
+      "sha256": "a72be3977e4b9a999929e124ecb0cf46a162e28267e52b1cfd6a494d265cf762",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/vulnerability-scanner.png",
+      "bytes": 409247,
+      "sha256": "40ff1b9aca94ebddd2a8d8a3ddb7383cca74e9bd0f02fd495862eac90dabf388",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/wazuh.png",
+      "bytes": 635936,
+      "sha256": "00abc9a128d3f41e688bd4ced65befe8b80e640ae2c3b417fe652d985851b23d",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "research/world.geojson",
+      "bytes": 275429,
+      "sha256": "fd3d4c3c381b61a28019ac282a01c6ee48d1a46a63c5b008989e704f079ea1b1",
+      "reason": "Generated research/download/old screenshot duplicates; canonical facts/pins/current assets retained"
+    },
+    {
+      "path": "deployment/generated-archive-cache.json",
+      "bytes": 1744,
+      "sha256": "118e11f920887e995fb86169af85f7796357593cf149c061be45c935d9b4ad3b",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-contact-20261022/DEPLOYMENT.md",
+      "bytes": 1610,
+      "sha256": "e3ab506da5528a90a8f35422f732709c37e95e60757b3f33467ecc8c39267b97",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-contact-20261022/deployment-config.json",
+      "bytes": 2061,
+      "sha256": "2274814ff4b6e30e1780ef9e27c9cd901411632e84395b5179e78a8c74d03b1e",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-contact-20261022/live-verification.json",
+      "bytes": 342,
+      "sha256": "ee218b5c3a923848229bbef11ee871a0c3b0c98637e44a17f4f3863a544e5887",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-contact-20261022/manifest.json",
+      "bytes": 5412,
+      "sha256": "c46b94650f5858e39227efef526e7140770fdc5090b3fde43683e4f5793107bc",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-contact-20261022/prepare.py",
+      "bytes": 806,
+      "sha256": "5ff2dfb7de44ab196b8d11e1162ffd01ce639172ebb68d64dda3ee7f4ea6992a",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-contact-20261022/serve.py",
+      "bytes": 791,
+      "sha256": "f7e0228421e5ebb8d4d172b955745caac2e72e0008e5f847ad0c89512a872bec",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-glass-20261022/DEPLOYMENT.md",
+      "bytes": 1561,
+      "sha256": "0c05187f15decbb6a7cad93f4c7f316010adb18d64e36371e744229c771cc8d6",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-glass-20261022/connector-files.json",
+      "bytes": 5129,
+      "sha256": "dee05bfe7b9fe06bc2a10ad9d95ff3deaa41f5f69d2ac4f2f023b88c1d2181de",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-glass-20261022/deploy.mjs",
+      "bytes": 1439,
+      "sha256": "37f191bedfe50e81e01c0c764cb8a13f870f710f0ba6978815a10ad32e013b74",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-glass-20261022/deployment-config.json",
+      "bytes": 2068,
+      "sha256": "08f634723111964a19522778dc9e7eabee9e78e60e500671168683b7f051d52e",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-glass-20261022/handoff.json",
+      "bytes": 876,
+      "sha256": "c06e8d2dda889b872eecb71e75a6fb478582634311ab732804f5148cf1843e8f",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-glass-20261022/live-verification.json",
+      "bytes": 838,
+      "sha256": "8a07327c300f529303202d68e44d652b2ae5b48c598b7a585848583d771fbfdf",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-glass-20261022/manifest.json",
+      "bytes": 6863,
+      "sha256": "f8b351a95fe884c546b848aba1478689ccdd65481d09fa0a77b73edae2de6fd8",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-glass-20261022/package.json",
+      "bytes": 176,
+      "sha256": "1748fec83ac2322ab5d8506d07f1483957c590ab96bc44d8d78d778c49c90eb9",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-glass-20261022/prepare.py",
+      "bytes": 898,
+      "sha256": "bf79c8b5e28ff74d893008b5eb78ae160e5c772e9a780f7e323eca84fddc3d77",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-glass-20261022/serve.py",
+      "bytes": 811,
+      "sha256": "75d6ef04ba470454d5e434b1dfcd2cf9fdf0617217a357c78a771ed475100abf",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-glass-20261022/verify-public.py",
+      "bytes": 2512,
+      "sha256": "ba8f949f46b6d4728707b8e51cb2adf9c00a64f0307feb219a680fd3a221a828",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-hero-20261022/DEPLOYMENT.md",
+      "bytes": 2047,
+      "sha256": "55ec1a56c5e4ec3b76df6b89bfb8304aa69bd5c05816570667219e0ac3efa269",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-hero-20261022/connector-files.json",
+      "bytes": 5133,
+      "sha256": "0c1f043e96e5e3af581e929d7091abc5826a4376a96c5e0ec4128c3888df16d8",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-hero-20261022/deploy.mjs",
+      "bytes": 1443,
+      "sha256": "077f35af91590a79c33c3b1527f9d9cccf888894783e3a4d2821cb5f5fe4d099",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-hero-20261022/deployment-config.json",
+      "bytes": 2068,
+      "sha256": "08f634723111964a19522778dc9e7eabee9e78e60e500671168683b7f051d52e",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-hero-20261022/handoff.json",
+      "bytes": 947,
+      "sha256": "e8c8430c1969fc474b0cd85a0241b1f8d52540d1e52ff4774f47c0f2db0de734",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-hero-20261022/live-verification.json",
+      "bytes": 541,
+      "sha256": "99af9b1288515ad29b641e69247b618b8365745d7d697b6714fb06e6fcdbced9",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-hero-20261022/manifest.json",
+      "bytes": 5551,
+      "sha256": "2b4ca8a503a09f4817c2b3a878c34bc687380ccb71479c641b72125a1f310583",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-hero-20261022/package.json",
+      "bytes": 176,
+      "sha256": "1748fec83ac2322ab5d8506d07f1483957c590ab96bc44d8d78d778c49c90eb9",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-hero-20261022/prepare.py",
+      "bytes": 806,
+      "sha256": "5ff2dfb7de44ab196b8d11e1162ffd01ce639172ebb68d64dda3ee7f4ea6992a",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-hero-20261022/release.json",
+      "bytes": 854,
+      "sha256": "63dc85d0ee0dcc7b5f97af48ba3ad30e9fa82409e9824bcea718ca6839cf6755",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-hero-20261022/serve.py",
+      "bytes": 791,
+      "sha256": "f7e0228421e5ebb8d4d172b955745caac2e72e0008e5f847ad0c89512a872bec",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-hero-20261022/verify-public.py",
+      "bytes": 2235,
+      "sha256": "2c7d7c0a3c850a0e43eafbc1a5b439fc9688aeddcdda82ad90830166fc472d75",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-native-clean-20261022/DEPLOYMENT.md",
+      "bytes": 1759,
+      "sha256": "9273c8fd1f5dd9cb17b5d69fd242396a74a4967e711ed33971f6543669b01dfa",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-native-clean-20261022/connector-files.json",
+      "bytes": 5933,
+      "sha256": "2a9b15400da2f578d7ba9fdcccd1db7d0cc9a0d27ec9c7ba05258134abda5b6a",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-native-clean-20261022/deploy.mjs",
+      "bytes": 1444,
+      "sha256": "38c49c1e3657c2058b663027e373509811ce3cb61660f9d625598117f5ef0275",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-native-clean-20261022/deployment-config.json",
+      "bytes": 2665,
+      "sha256": "7f455e6783b3b9fa1b053ee89cd2060a65eaa4453a7bbc7558275e7bbb6f614a",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-native-clean-20261022/handoff.json",
+      "bytes": 988,
+      "sha256": "cfacba8868b4f2bd76b2bc2ef0c481a69283880ad3aab50f680b85206f0bcddf",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-native-clean-20261022/live-verification.json",
+      "bytes": 873,
+      "sha256": "b287788927cb66423c6b944c7370bb874ba4281794f39246da40fd509e073fbc",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-native-clean-20261022/manifest.json",
+      "bytes": 6865,
+      "sha256": "d9dc104a144b1c53ac46bc9a53956752103fc88505158b38cbbdffebda1fc694",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-native-clean-20261022/package.json",
+      "bytes": 176,
+      "sha256": "1748fec83ac2322ab5d8506d07f1483957c590ab96bc44d8d78d778c49c90eb9",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-native-clean-20261022/prepare.py",
+      "bytes": 897,
+      "sha256": "df63cdc7dd67abed6c5e03b2b778c959cced1496437177882c0a93f2b94eda48",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-native-clean-20261022/serve.py",
+      "bytes": 811,
+      "sha256": "75d6ef04ba470454d5e434b1dfcd2cf9fdf0617217a357c78a771ed475100abf",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-native-clean-20261022/verify-public.py",
+      "bytes": 3159,
+      "sha256": "31b1613d033b66417d959dcdf1da7be94543e3a5897d11e180527549e62242da",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-showreel-20261022/DEPLOYMENT.md",
+      "bytes": 1939,
+      "sha256": "fa90f3ade4f696767e7e388b956b9dad523cbe41322d1f147a769c5191b5ab92",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-showreel-20261022/connector-files.json",
+      "bytes": 5133,
+      "sha256": "477ea0abc6f74e9afc30005a033a74aa534f668476ff0b79314ac112d7b6fab4",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-showreel-20261022/deploy.mjs",
+      "bytes": 1442,
+      "sha256": "ca52b5f4afc6b39fe7485f81ec0fa4095e576febb9c657e4a8ce86496f1d4284",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-showreel-20261022/deployment-config.json",
+      "bytes": 2068,
+      "sha256": "08f634723111964a19522778dc9e7eabee9e78e60e500671168683b7f051d52e",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-showreel-20261022/handoff.json",
+      "bytes": 1022,
+      "sha256": "b5184a256ba9cc6025720654fbb3c3ddf96ab3b3634f3f8dd835bce7f29751c8",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-showreel-20261022/live-verification.json",
+      "bytes": 795,
+      "sha256": "7770da3d14c65724554a47f568e418dc194c3c39852973eba4cac2553a9eaefd",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-showreel-20261022/manifest.json",
+      "bytes": 6374,
+      "sha256": "25ae593c24f3ee09bfb6e2f3682121deed673334d1cb8b1b059c02fb3b75ab79",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-showreel-20261022/package.json",
+      "bytes": 176,
+      "sha256": "1748fec83ac2322ab5d8506d07f1483957c590ab96bc44d8d78d778c49c90eb9",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-showreel-20261022/prepare.py",
+      "bytes": 893,
+      "sha256": "6096408eb9b76496e456cda6f51e4eb23e57bead894aa0648bff6cbc4941cabc",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-showreel-20261022/serve.py",
+      "bytes": 811,
+      "sha256": "75d6ef04ba470454d5e434b1dfcd2cf9fdf0617217a357c78a771ed475100abf",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-showreel-20261022/verify-public.py",
+      "bytes": 2469,
+      "sha256": "0c02d1129b60982bd47ff994c49b43b75f6a4a3f11456f31c981f0be6bddcd5b",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-update-20261022/DEPLOYMENT.md",
+      "bytes": 2802,
+      "sha256": "8082286f861d4dd910560e039a96adb1e14d549ec3a81777dee983a255ef09c6",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-update-20261022/deployment-config.json",
+      "bytes": 2061,
+      "sha256": "2274814ff4b6e30e1780ef9e27c9cd901411632e84395b5179e78a8c74d03b1e",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-update-20261022/live-verification.json",
+      "bytes": 7552,
+      "sha256": "c05498eb7431fd8f7bfc8b22f502e29c99a545aec41b2b42b96c9abc15482f50",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-update-20261022/manifest.json",
+      "bytes": 5392,
+      "sha256": "779919cb6b11199a91e803f3a579fe299af08127c9463f240dff88f332726e96",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-update-20261022/serve.py",
+      "bytes": 922,
+      "sha256": "6a5208d6a451928667d4bb1f86972a3cf6657e8035b706f870ee875d600c4f6d",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/DEPLOYMENT.md",
+      "bytes": 2639,
+      "sha256": "4ae2c4ad336e9cd52cbb31c6614684bbc71cd8ae8dda70a15b65adedce8eab22",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/live-verification.json",
+      "bytes": 8414,
+      "sha256": "2439342b581f94ab9670dfcb08fc9fd0e0b3e955c945d54d5d48db77df01959d",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/manifest.json",
+      "bytes": 4032,
+      "sha256": "95ae026c25161104b0aa5a13e699922bca98b8b1f98ec2d22c766515820458b4",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/config.json",
+      "bytes": 548,
+      "sha256": "65443116cbca758db48921ad4dd5e84b66dbc95095ab60ab7b5c4eea09528054",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/_headers",
+      "bytes": 163,
+      "sha256": "bdfc71f53fa039454c1f041773bd774453233a36c45eb2fe9df6a6f5074465cd",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/_redirects",
+      "bytes": 19,
+      "sha256": "6036983e5fc00f0169c9e939b1816ed771eee00e27f2fcc517b819041460b9ef",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/assets/ThreatGlobe-D37nvfG2.js",
+      "bytes": 73024,
+      "sha256": "f638be2a32529f3433ea22c5d3d49d4b3a722e2ce9977907a4d12e30cb63381c",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/assets/index-B4Ofa3kA.css",
+      "bytes": 117751,
+      "sha256": "bf0a582ab830bb336b8fb5db5dc10544d5c9238ca5297a6e52a975040b412e7a",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/assets/index-DCUHIYSX.js",
+      "bytes": 381064,
+      "sha256": "4f91c13b0dc2dc114779ad02b48d8892f04f112c1b589f1173d582f6459fd3f2",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/assets/jeffresume .pdf",
+      "bytes": 80770,
+      "sha256": "9034fcc296b821f35b48499bd226143ea865bb9c2046108d699879de1481b36a",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/assets/vendor-motion-a3sj5zmn.js",
+      "bytes": 114013,
+      "sha256": "11f2be75561459741488a454669fb26b048799f90e44d4fee6288c765734b1a8",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/assets/vendor-webgl-BDmYk0Q_.js",
+      "bytes": 480196,
+      "sha256": "eab4d6668658baa01602762d8b44bc0ca7463512c0f7020e1add5901163f3071",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/documents/jefrine-correya-resume.pdf",
+      "bytes": 80770,
+      "sha256": "9034fcc296b821f35b48499bd226143ea865bb9c2046108d699879de1481b36a",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/favicon.svg",
+      "bytes": 335,
+      "sha256": "5270459eb1f96f052d2932a2326c8901c0f5569238a330ae185a334a9818e5ce",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/fonts/ibm-plex-mono-400.woff2",
+      "bytes": 17992,
+      "sha256": "81f81c512aa8d215c7c9ec8b8f69b8518ed5faecb2d0ff0cd1928eb9f78a55df",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/fonts/ibm-plex-mono-500.woff2",
+      "bytes": 18284,
+      "sha256": "3d222e71a168cc3d8b7a0ec0ffa7283542122ffe7a8a78fd4bb41c560b630d4e",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/fonts/ibmplexmono-OFL.txt",
+      "bytes": 4456,
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/fonts/inter-400.woff2",
+      "bytes": 30312,
+      "sha256": "bc0c57a741daefc7eb4ed5cad4ec4d3031565f8a9ba8aa7a5c43098940f7bfe7",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/fonts/inter-500.woff2",
+      "bytes": 30980,
+      "sha256": "7f4263e36d49b0ef3418cd6b69a02c6f06a4b9e08083ddde51f018ba717d60d5",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/fonts/inter-600.woff2",
+      "bytes": 31084,
+      "sha256": "6a905ff18b7db0b755b3110854a7788354c2d437be80ffd720ac9f576e77db2c",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/fonts/inter-700.woff2",
+      "bytes": 31220,
+      "sha256": "51631e444fea97650f0440bcd027dfdc83a6739abed06d8934ce813fb2cc460c",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/fonts/inter-OFL.txt",
+      "bytes": 4377,
+      "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/fonts/space-grotesk-400.woff2",
+      "bytes": 14176,
+      "sha256": "7a0ad537ed98e8a3b2e5e58d081c152858c6522dbe75cc06bffade2cf12879be",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/fonts/space-grotesk-500.woff2",
+      "bytes": 14204,
+      "sha256": "990365f54bcd88ba050d7febd015ede6908596943bedaaafb2ec0f07c024dc17",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/fonts/space-grotesk-600.woff2",
+      "bytes": 14120,
+      "sha256": "6a2073da9d4ad337349ac88da36e4209ba256bf10008ad58799996f32791224f",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/fonts/space-grotesk-700.woff2",
+      "bytes": 13584,
+      "sha256": "37cca29d1aff2656e1605d5beea540dad46d70ea88fea3f46fe0e1c0c764f8a5",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/fonts/spacegrotesk-OFL.txt",
+      "bytes": 4495,
+      "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/images/astra.webp",
+      "bytes": 56920,
+      "sha256": "1ea66a07bcf6f268acc2c4e815278360c0fe4af561ea1cb8d66b54add979db3c",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/images/globe-fallback.svg",
+      "bytes": 211467,
+      "sha256": "092fb0cdb09246adca2638e76f2825c23e9afb1701f88f470fc99387e48fe3b4",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/images/jefrine-avatar.webp",
+      "bytes": 85512,
+      "sha256": "2a737d00eb7959b9a20a042d43282844f0b3bfe042f310c7d405a4b589c0c210",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/images/jefrine-correya.webp",
+      "bytes": 63588,
+      "sha256": "227e5c60fb57d1848135bfdaed4f1f29bb4746cd4d54d677f530a1c9089a5e35",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/images/netflix.webp",
+      "bytes": 218282,
+      "sha256": "acaa8fa3d128fe852489b6576f020a6ee2dfcb7c104d430bd4e3dd8d1eb51d21",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/images/passchecker.webp",
+      "bytes": 25382,
+      "sha256": "4f01a1f621f6b8dbd799ba164a2e231f87265dee9506f8764c6586f43f31e5ce",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/images/phishing-detector.webp",
+      "bytes": 33448,
+      "sha256": "1127412872720c2f83c14b827033249eb25aa36f3c6ca4b332d5ad54ec8341de",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/images/slms.webp",
+      "bytes": 76048,
+      "sha256": "a862a4f21de546398a3b19a490928136ed77a8ccc677155d3328cc312d597749",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/images/soc-assistant.webp",
+      "bytes": 49106,
+      "sha256": "d53026bc886885a8c4d264862e80714578f27c9b0d97ab912481f62640554356",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/images/splunk.webp",
+      "bytes": 33144,
+      "sha256": "97e7673bf194162fcd37778776ad4053b29943a0f9fc701e88070af66ca39ba7",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/images/vulnerability-scanner.webp",
+      "bytes": 67842,
+      "sha256": "d45b39fc64cc700238e63968adb1b3fca5bb9062d88075cdddbb9520ba6b2225",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/images/wazuh.webp",
+      "bytes": 92910,
+      "sha256": "b7933eea7fe3945d9bc2bfc2a26ffe594fdd0e040870439a86b1f2de113c2dd8",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/index.html",
+      "bytes": 2757,
+      "sha256": "028c7c2bcb38e7f23f68a1a4ecfc9f308f8f08b1da21c35133cbbe270eecfb31",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/robots.txt",
+      "bytes": 67,
+      "sha256": "2e4b5d4de5be64db2b50f821a20c3b1decfbaedd978de72301febba62c62f7ff",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/output/static/sitemap.xml",
+      "bytes": 1871,
+      "sha256": "0f71e9faa08e04a0464ef104e0cbcbce2b9e644ab2a11b2bdfdf94c5ccff75bb",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "deployment/jefrine-vercel-20261021/prebuilt/.vercel/project.json",
+      "bytes": 144,
+      "sha256": "4116ecfae97bdb6604583cf56690776718da47883ed1d394d85fa87acc0b9dbc",
+      "reason": "Expired generated deployment staging; current release facts migrated to project ops"
+    },
+    {
+      "path": "portfolio-review.bundle",
+      "bytes": 23117602,
+      "sha256": "0b4c0f9492a18455c2bb8b627fc619cac9983166b69815028f0239cec43fea7a",
+      "reason": "Historical generated bundle duplicate; every commit verified present in repository"
+    },
+    {
+      "path": "portfolio/public/assets/jeffresume .pdf",
+      "bytes": 82015,
+      "sha256": "8872b51f624a402369ff9887d2651dbd6768e0bbd37027ff654596053eb6322d",
+      "reason": "Duplicate canonical resume bytes replaced by compatible dev/production URL alias"
+    }
+  ],
+  "organized": [
+    {
+      "from": "Jefrine-Correya-Portfolio-Review.zip",
+      "to": "deliverables/Jefrine-Correya-Portfolio-Review.zip"
+    },
+    {
+      "from": "Jefrine-Correya-Portfolio.html",
+      "to": "deliverables/Jefrine-Correya-Portfolio.html"
+    },
+    {
+      "from": "Jefrine-Portfolio-Review-2026-10-22.md",
+      "to": "deliverables/Jefrine-Portfolio-Review-2026-10-22.md"
+    }
+  ],
+  "retained": [
+    "All authored Git history and original main ref",
+    "Active React routes/components/tests",
+    "Active DocumentViewer and all four original PDFs/previews/accessible text",
+    "Original uploaded input files",
+    "Current native video and archived full film",
+    "Current native renderer/capture inputs, source pins and camera/environment/timing",
+    "Current release facts in ops/release-baseline.json"
+  ],
+  "deadGlobeCssBytes": 2307,
+  "validation": {
+    "appImportGraph": [
+      "src/data/content.ts",
+      "src/hooks/useExperience.tsx",
+      "src/data/documents.json",
+      "src/components/DocumentViewer.tsx",
+      "src/components/UI.tsx",
+      "src/components/Shell.tsx",
+      "src/data/liquid-glass.json",
+      "src/hero-showcase.css",
+      "src/showreel.css",
+      "src/liquid-glass.css",
+      "src/components/HeroShowcase.tsx",
+      "src/components/AnalystSimulator.tsx",
+      "src/components/Arsenal.tsx",
+      "src/components/ProjectCard.tsx",
+      "src/pages/Home.tsx",
+      "src/data/repository-index.json",
+      "src/pages/Projects.tsx",
+      "src/pages/NotFound.tsx",
+      "src/pages/ProjectDetail.tsx",
+      "src/pages/Journey.tsx",
+      "src/pages/Credentials.tsx",
+      "src/contact.css",
+      "src/pages/Contact.tsx",
+      "src/pages/Sources.tsx",
+      "src/data/showreel.json",
+      "src/pages/Showreel.tsx",
+      "src/App.tsx",
+      "src/styles.css",
+      "src/document-viewer.css",
+      "src/main.tsx"
+    ],
+    "build": "passed",
+    "contentIntegrity": "passed",
+    "tests": {
+      "startTime": "2026-10-22T21:39:04.783Z",
+      "duration": 152097.12099999998,
+      "expected": 88,
+      "skipped": 2,
+      "unexpected": 0,
+      "flaky": 0
+    },
+    "originalDocuments": "All four canonical PDFs and original uploads retain their original SHA256 values",
+    "legacyResumeUrl": "Canonical alias tested on desktop and mobile; no duplicate PDF",
+    "cameraAndEnvironment": "Original camera/layout/environment files unchanged; native source checks passed"
+  }
+}

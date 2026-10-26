@@ -1,0 +1,237 @@
+{
+  "title": "Native quality repair",
+  "approval": "Owner approved native re-export of the existing project",
+  "video": {
+    "duration": 18,
+    "width": 1920,
+    "height": 1080,
+    "fps": 60,
+    "decodedFrames": 1080,
+    "blankFrames": 0,
+    "audioStreams": 0,
+    "codec": "H.264",
+    "profile": "High",
+    "colorSpace": "bt709",
+    "faststart": true,
+    "bytes": 11641244,
+    "sha256": "d6da76f987e75f9f0cc5edb5e6b1f42646d089664a17c9a7d84b0f891544d503",
+    "minimumFrameMean": 14.634884259259259,
+    "maximumAdjacentFrameDifference": 10.587037037037037,
+    "loopSeamMeanAbsoluteRGBDifferenceAt160x90": 0.7478472222222222,
+    "nativeRender": true,
+    "spatialUpscaling": false,
+    "opticalFlowInterpolation": false,
+    "inpainting": false,
+    "editorialCards": 0,
+    "titlePlanes": 0,
+    "numberPlanes": 0,
+    "cameraPositionDeviation": 5.329070518200751e-15,
+    "cameraTargetDeviation": 0,
+    "encodedReviewSamples": 36
+  },
+  "render": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 60,
+    "frames": 1080,
+    "duration": 18,
+    "errors": [],
+    "maxCameraPositionDeviation": 5.329070518200751e-15,
+    "maxCameraTargetDeviation": 0,
+    "editorialCards": 0,
+    "titlePlanes": 0,
+    "numberPlanes": 0,
+    "method": "Direct native scene frames; higher-density genuine interfaces; same original scene/camera configuration and approved timing. No CV repair, no spatial upscale, no motion interpolation; one final H.264 encode."
+  },
+  "cameraAndEnvironment": {
+    "cameraAndEnvironmentUnchanged": true,
+    "files": [
+      "scripts/showreel/scene/config.mjs",
+      "scripts/showreel/scene/timeline.mjs",
+      "scripts/showreel/renderer/environment.mjs"
+    ],
+    "editorialFactoryCalls": 0,
+    "losslessAssets": 9,
+    "url": [
+      1674,
+      1092
+    ],
+    "nativeOutput": [
+      1920,
+      1080,
+      60
+    ],
+    "approvedTiming": true
+  },
+  "interfaceTextures": {
+    "astra": {
+      "file": "astra.webp",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 245020,
+      "sha256": "4c136a12b2318cfc6c06dababf156f2dae40000b9787ec73e0f1b9ff527c7a7f",
+      "source": "Pinned original implementation / fresh browser capture",
+      "note": "2\u00d7 device pixel ratio, original UI; no live API/monitoring/scan results"
+    },
+    "astra-detail": {
+      "file": "astra-detail.webp",
+      "width": 1600,
+      "height": 1128,
+      "bytes": 52358,
+      "sha256": "31c7c0b9ee99997276b4911cb0388c328af0287f3a5682b099bf6e4a380fb10f",
+      "source": "Pinned original implementation / fresh browser capture",
+      "note": "2\u00d7 device pixel ratio, original UI; no live API/monitoring/scan results"
+    },
+    "url": {
+      "file": "url.webp",
+      "width": 1674,
+      "height": 1092,
+      "bytes": 44126,
+      "sha256": "58a7a8de3c44859836f2d60d667e12ef68a149e145868fda35c73b1bc7ac8edd",
+      "source": "Pinned original implementation / fresh browser capture",
+      "note": "3\u00d7 device pixel ratio, original input form; no lookup"
+    },
+    "scanner": {
+      "file": "scanner.webp",
+      "width": 2560,
+      "height": 1412,
+      "bytes": 37216,
+      "sha256": "35e824954e86572ec098df7d2bf4fcb29efa328bfb96d3b60eb001c8ccb0abb4",
+      "source": "Pinned original implementation / fresh browser capture",
+      "note": "2\u00d7 device pixel ratio, original UI; no live API/monitoring/scan results"
+    },
+    "passchecker": {
+      "file": "passchecker.webp",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 18178,
+      "sha256": "4e22c90fb8cc6957629d2f4b9272d058507d62e601abdb38495d218c53ffc784",
+      "source": "Pinned original implementation / fresh browser capture",
+      "note": "2\u00d7 device pixel ratio, original UI; no live API/monitoring/scan results"
+    },
+    "soc": {
+      "file": "soc.webp",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 46536,
+      "sha256": "40c9c2782f266fce73458383c8767adb43621182a44b82add9ef1a99ef1e690a",
+      "source": "Pinned original implementation / fresh browser capture",
+      "note": "2\u00d7 device pixel ratio, original UI; no live API/monitoring/scan results"
+    },
+    "splunk": {
+      "file": "splunk.webp",
+      "width": 966,
+      "height": 426,
+      "bytes": 109186,
+      "sha256": "5ba6f4d66dad9a4709b1afc0d85dccd4d0517bf22c644fd142de49b4c356fe00",
+      "source": "Original report, p11",
+      "note": "Original raster retained losslessly. Its fine-text resolution is source-limited; no fabricated replacement dashboard."
+    },
+    "wazuh": {
+      "file": "wazuh.webp",
+      "width": 1377,
+      "height": 634,
+      "bytes": 90568,
+      "sha256": "50fa3a3149923250439c91a1a31e92ff0e4082a9c08386a2f9faf0a078b3cff4",
+      "source": "Original Wazuh report, p19",
+      "note": "Original embedded screenshot retained losslessly; no extra duplicate detail panel."
+    },
+    "wireshark": {
+      "file": "wireshark.webp",
+      "width": 3836,
+      "height": 1751,
+      "bytes": 667088,
+      "sha256": "74e15ae1b86decff9a4934fbcbb35751e2ee4d6f5e877e4e2e73ac3592e30c07",
+      "source": "Original published Wireshark capture",
+      "note": "Native screenshot pixels retained; addresses/SNI redacted at native coordinates; payload/MAC/SSID panes omitted. No new packet capture."
+    }
+  },
+  "captureLog": [
+    {
+      "id": "astra",
+      "pixelRatio": 2,
+      "errors": [],
+      "blocked": [],
+      "submissions": []
+    },
+    {
+      "id": "url",
+      "pixelRatio": 3,
+      "errors": [],
+      "blocked": [],
+      "submissions": []
+    },
+    {
+      "id": "scanner",
+      "pixelRatio": 2,
+      "errors": [],
+      "blocked": [],
+      "submissions": []
+    },
+    {
+      "id": "passchecker",
+      "pixelRatio": 2,
+      "errors": [],
+      "blocked": [],
+      "submissions": []
+    },
+    {
+      "id": "soc",
+      "pixelRatio": 2,
+      "errors": [],
+      "blocked": [],
+      "submissions": []
+    }
+  ],
+  "limits": "Original report screenshots remain source-resolution limited. Native render refers to output frames/camera, not invented detail in old scans. No M2 physical-device benchmark.",
+  "localTestStats": {
+    "startTime": "2026-10-22T21:01:34.264Z",
+    "duration": 153403,
+    "expected": 86,
+    "skipped": 2,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "encodedReview": {
+    "samples": 36,
+    "allEightProjects": true,
+    "urlFormUnobstructed": true,
+    "editorialBottomCardsAbsent": true,
+    "noBackgroundPatchArtifacts": true,
+    "loopReviewed": true
+  },
+  "publicVerification": {
+    "url": "https://jefrine-correya-portfolio.vercel.app",
+    "filmUrl": "https://jefrine-correya-portfolio.vercel.app/media/cybersecurity-native-glass-1080p60.mp4",
+    "deployment": "dpl_HzgvNUXu5cigYeNmJWcPV5Zpgo7N",
+    "state": "READY",
+    "implementationCommit": "80963c14eaf1a3b2f33f80fbbc1423e5e5a16bb3",
+    "verifiedAssetHashes": 62,
+    "verifiedRoutes": 26,
+    "ranges": {
+      "cybersecurity-native-glass-1080p60.mp4": {
+        "status": 206,
+        "contentType": "video/mp4",
+        "contentRange": "bytes 0-1023/11641244"
+      },
+      "cybersecurity-showreel.mp4": {
+        "status": 206,
+        "contentType": "video/mp4",
+        "contentRange": "bytes 0-1023/3633975"
+      }
+    },
+    "captionMime": "text/vtt",
+    "securityHeaders": "passed",
+    "legacyAliases": "passed",
+    "artifactSha256": "b15af1003ec24a7fb394c549cd2ec3a4ea8fd2aef922c7de145086c77a4964a2",
+    "failures": []
+  },
+  "publicTestStats": {
+    "startTime": "2026-10-22T21:10:48.638Z",
+    "duration": 112290.96200000001,
+    "expected": 86,
+    "skipped": 2,
+    "unexpected": 0,
+    "flaky": 0
+  }
+}

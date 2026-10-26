@@ -1,0 +1,51 @@
+{
+  "handoff": {
+    "head": "cc876aef7d1cee4567393e999cb110ee3630d34b",
+    "branch": "fix/native-glass-quality",
+    "implementationCommit": "80963c14eaf1a3b2f33f80fbbc1423e5e5a16bb3",
+    "url": "https://jefrine-correya-portfolio.vercel.app",
+    "deployment": "dpl_HzgvNUXu5cigYeNmJWcPV5Zpgo7N",
+    "nativeVideoSha256": "d6da76f987e75f9f0cc5edb5e6b1f42646d089664a17c9a7d84b0f891544d503",
+    "packaging": "Current app/native-source ZIP; MP4 and standalone HTML separate; unused legacy root assets excluded from ZIP only",
+    "files": {
+      "Jefrine-Correya-Portfolio-Review.zip": {
+        "bytes": 5734355,
+        "sha256": "a7f1da55399e4159802732f551836bde628e087a6292557a70635c57a3f24f97"
+      },
+      "Jefrine-Correya-Portfolio.html": {
+        "bytes": 5776639,
+        "sha256": "fa7c5d58299376a4bf0a37bc2f0522497f986fb793c9672aa2a115d87e2e357c"
+      },
+      "Jefrine-Portfolio-Review-2026-10-22.md": {
+        "bytes": 934,
+        "sha256": "cd71ace6cecbbbb5dcf56ee4ea857093e65a15c6abfe90adfa626dfcfdc8c75e"
+      }
+    }
+  },
+  "verification": {
+    "url": "https://jefrine-correya-portfolio.vercel.app",
+    "filmUrl": "https://jefrine-correya-portfolio.vercel.app/media/cybersecurity-native-glass-1080p60.mp4",
+    "deployment": "dpl_HzgvNUXu5cigYeNmJWcPV5Zpgo7N",
+    "state": "READY",
+    "implementationCommit": "80963c14eaf1a3b2f33f80fbbc1423e5e5a16bb3",
+    "verifiedAssetHashes": 62,
+    "verifiedRoutes": 26,
+    "ranges": {
+      "cybersecurity-native-glass-1080p60.mp4": {
+        "status": 206,
+        "contentType": "video/mp4",
+        "contentRange": "bytes 0-1023/11641244"
+      },
+      "cybersecurity-showreel.mp4": {
+        "status": 206,
+        "contentType": "video/mp4",
+        "contentRange": "bytes 0-1023/3633975"
+      }
+    },
+    "captionMime": "text/vtt",
+    "securityHeaders": "passed",
+    "legacyAliases": "passed",
+    "artifactSha256": "b15af1003ec24a7fb394c549cd2ec3a4ea8fd2aef922c7de145086c77a4964a2",
+    "failures": []
+  }
+}

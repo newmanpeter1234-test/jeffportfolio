@@ -1,0 +1,85 @@
+[
+  {
+    "id": "resume",
+    "label": "Résumé",
+    "title": "Jefrine Correya — Résumé",
+    "issuer": "SOC & Security Platform Engineer",
+    "pdf": "/documents/jefrine-correya-resume.pdf",
+    "downloadName": "Jefrine-Correya-Resume.pdf",
+    "category": "PROFESSIONAL PROFILE",
+    "sha256": "8872b51f624a402369ff9887d2651dbd6768e0bbd37027ff654596053eb6322d",
+    "bytes": 82015,
+    "pages": [
+      {
+        "image": "/images/document-resume-8872b51f-p1.webp",
+        "width": 1489,
+        "height": 2105
+      }
+    ],
+    "thumbnail": "/images/document-resume-8872b51f-thumb.webp",
+    "text": "Jefrine Correya\nSOC & Security Platform Engineer\n(Qatar / Dubai)\n|\n+91 8113064878\n|\njefrincorreya@gmail.com\n|\nlinkedin.com/in/jefrine07\n|\njeffsec.in\nPROFESSIONAL SUMMARY\nEC-Council Certified SOC Analyst (CSA) and Security Platform Engineer specializing in 24/7 security operations, SOAR playbook\nautomation, log source onboarding, and detection engineering. Hands-on experience architecting security orchestration stacks utilizing\n**Docker, ELK Stack/Wazuh, n8n, and TheHive**, coupled with automated threat intelligence ingestion via **AlienVault OTX, VirusTotal,\nand AbuseIPDB**. Experienced in Python-driven threat analytics and incident triage workflows. Seeking to deliver on-site security\noperations and platform administration in Qatar or Dubai.\nTECHNICAL SKILLS\n• Security Operations & Triage - 24/7 Monitoring, Incident Response, Alert Triage, Root Cause Analysis, MITRE ATT&CK Framework,\nThreat Hunting, IoC Correlation\n• SIEM & Security Analytics - Splunk, Elastic Stack (ELK), OpenSearch, Wazuh, Log Parser/Normalization, Detection Rules\n• SOAR & Automation - n8n Workflow Automation, TheHive Case Management, Threat Intelligence (AlienVault OTX, VirusTotal,\nAbuseIPDB), Webhook Integrations\n• Security Tools & Environment - Wireshark, Nmap, Nikto, Burp Suite, Docker Containerization, Linux (Ubuntu/Kali), Windows Server,\nGit\n• Scripting & AI/ML - Python (scikit-learn, REST APIs), Bash, Machine Learning Detection Models (Isolation Forest, Random Forest)\nSECURITY OPERATIONS EXPERIENCE\n• 09.2025 – 05.2026\nJr. Cybersecurity Analyst — SOC Operations | Wahy Labs\n– Monitored, triaged, and investigated real-time security alerts using SIEM platforms (Splunk, Wazuh) across network endpoints and\nfirewalls.\n– Ingested and parsed log telemetry from server and security controls; validated indicators of compromise (IoCs) and mapped attack\ntechniques to the MITRE ATT&CK framework.\n– Engineered automated triage scripts in Python to enrich incoming IP/URL indicators against threat intelligence feeds, reducing\nmanual analyst lookup time.\n– Performed root-cause analysis and documented detailed incident timelines, evidence captures, and mitigation steps for escalated\ntickets.\n• 02.2025 – 07.2025\nCICSA Trainee — Security Operations | RedTeam Hacker Academy\n– Completed intensive hands-on SOC training covering incident handling, log inspection, perimeter security monitoring, and vulner-\nability assessment routines.\nSECURITY PLATFORM ENGINEERING PROJECTS\n• Containerized Security Orchestration & SOAR Lab\nDocker, ELK Stack, n8n, TheHive, OTX\nDesigned and deployed a local SOAR ecosystem inside Docker containers running Elasticsearch, Kibana, n8n, and TheHive. Inte-\ngrated n8n automation nodes to ingest Kali Linux attack logs, automatically query AlienVault OTX, and trigger incident case creation\nin TheHive.\n• Multi-Agent AI Threat Detection & Pipeline\nPython, Llama 3, VirusTotal, AbuseIPDB\nEngineered an automated threat intelligence pipeline that extracts firewall logs, queries external threat intelligence APIs (VirusTotal,\nAbuseIPDB), enriches logs with GeoIP telemetry, and compiles risk reports.\n• ML Log Anomaly Analytics Tool\nPython, Scikit-learn, Isolation Forest\nDeveloped a security monitoring script employing Isolation Forest and Random Forest algorithms to analyze server access logs and\ndetect uncharacteristic user authentication activity.\nEDUCATION\n• Master of Computer Applications (MCA) – Distance Education\nOngoing\nSikkim Manipal University (SMU)\n• Bachelor of Computer Applications (BCA)\n2021 – 2024\nBangalore North University, Karnataka\nCERTIFICATIONS\n• Certified SOC Analyst (CSA v1)\nEC-Council\n• Certified IT Infrastructure and SOC Analyst (CICSA)\nRedTeam Hacker Academy"
+  },
+  {
+    "id": "cicsa",
+    "label": "CICSA",
+    "title": "CICSA certificate",
+    "issuer": "RedTeam Hacker Academy · CICSA v3",
+    "pdf": "/documents/jefrine-cicsa-certificate.pdf",
+    "downloadName": "Jefrine-Correya-CICSA-Certificate.pdf",
+    "category": "EARNED QUALIFICATION",
+    "issued": "11 July 2025",
+    "sha256": "e545bb08920e10d5f2b7ef6a119cacc4f94a8400ca80c349b5cb6bcfdf1af2ec",
+    "bytes": 114487,
+    "pages": [
+      {
+        "image": "/images/document-cicsa-e545bb08-p1.webp",
+        "width": 2105,
+        "height": 1488
+      }
+    ],
+    "thumbnail": "/images/document-cicsa-e545bb08-thumb.webp",
+    "text": "Jefrine Correya completed the Certified IT Infrastructure & Cyber SOC Analyst (CICSA v3) certification program at RedTeam Hacker Academy. Date: 11 July 2025. Certificate ID: RTXSTU1602013971. The certificate covers IT infrastructure technologies, network and offensive security, Cyber SOC, and patch and vulnerability management. This readable summary accompanies the original scanned certificate."
+  },
+  {
+    "id": "csa",
+    "label": "EC-Council CSA",
+    "title": "EC-Council CSA certificate",
+    "issuer": "EC-Council · Certified SOC Analyst",
+    "pdf": "/documents/jefrine-ec-council-csa-certificate.pdf",
+    "downloadName": "Jefrine-Correya-EC-Council-CSA-Certificate.pdf",
+    "category": "EARNED QUALIFICATION",
+    "issued": "27 July 2025",
+    "sha256": "b621e75367fd10b2ebb3e69525a68b8b3b3ece5b6797b5bf29c9798b6363d8a8",
+    "bytes": 820062,
+    "pages": [
+      {
+        "image": "/images/document-csa-b621e753-p1.webp",
+        "width": 2112,
+        "height": 1662
+      }
+    ],
+    "thumbnail": "/images/document-csa-b621e753-thumb.webp",
+    "text": "Certified SOC Analyst\nCertified A\nSOC\nAnalyst\nS\nC\nTM\nJay Bavisi, President\nThis is to acknowledge that\nhas successfully passed the\nexamination and has met all the necessary criteria for an official certification.\nRenewable on:\nThis credential is valid for three years from the date of initial \ncertification, subject to the candidate meeting continuing professional \neducation (CPE) requirements and is current on their annual CE fee. \nThe issue date will reflect the original grant date.\n27 July, 2025\n01 August, 2027\nCertified SOC Analyst\njefrine correya\nECC0963724518"
+  },
+  {
+    "id": "experience",
+    "label": "Experience",
+    "title": "Experience certificate",
+    "issuer": "Wahy Lab Solutions · Junior Cyber Security Analyst",
+    "pdf": "/documents/jefrine-experience-certificate.pdf",
+    "downloadName": "Jefrine-Correya-Experience-Certificate.pdf",
+    "category": "PROFESSIONAL EXPERIENCE",
+    "issued": "29 May 2026",
+    "sha256": "3d6fae5e6dfc767b04c3fc9c50b7898dc2905916acb4d1c0c87d42b7d107f741",
+    "bytes": 409538,
+    "pages": [
+      {
+        "image": "/images/document-experience-3d6fae5e-p1.webp",
+        "width": 1489,
+        "height": 2106
+      }
+    ],
+    "thumbnail": "/images/document-experience-3d6fae5e-thumb.webp",
+    "text": "Wahy Lab Solutions certifies that Mr. Jefrine Correya worked as Junior Cyber Security Analyst from 1 September 2025 to 29 May 2026. The letter is dated 29 May 2026, Padamugal, and is signed by Anita Joseph, HR Manager. It states that his work was satisfactory and recognises his sincerity, dedication, and hard work. This readable summary accompanies the original scanned letter."
+  }
+]

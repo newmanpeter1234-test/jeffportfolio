@@ -1,0 +1,22 @@
+node_modules/
+dist/
+.playwright/
+playwright-report/
+test-results/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.local
+*.tsbuildinfo
+artifacts/
+Jefrine-Correya-Portfolio.html
+
+# Local capture intermediates (production assets live under public/).
+.cache/
+
+# Local footage-processing bytecode
+scripts/footage-glass/__pycache__/
+
+# Capture-only Python caches
+**/__pycache__/
